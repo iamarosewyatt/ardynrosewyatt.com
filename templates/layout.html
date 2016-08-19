@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ardyn Rose Wyatt | Remembering the Beauty that we Are</title>
+    <style>
+        html {
+            font-family: "Courier New", monospace;
+        }
+
+        body {
+            background-color: #f5f5f0;
+            padding: 0;
+            margin: 0;
+        }
+
+        .simple-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .horizontal-list li {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            float: left;
+        }
+
+        .bordered-list li {
+            border-right: 3px #f5f5f0 solid;
+        }
+
+        .bordered-list li:last-child {
+            border-right: 0;
+        }
+
+        .fixed-width {
+            width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header img {
+            display: block;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        .menu {
+            background-color: #ffffff;
+        }
+
+        .menu a {
+            text-decoration: none;
+        }
+
+        .menu ul {
+            display: inline-block;
+            padding: 0;
+            margin: 0;
+            height: 30px;
+            line-height: 30px;
+            vertical-align: top;
+        }
+
+        .menu ul li {
+            padding: 0;
+            margin: 0;
+        }
+
+        .menu .local li {
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+        .menu .remote {
+            float: right;
+            margin-right: 30px;
+        }
+
+        .menu .remote li {
+            margin-left: 10px;
+        }
+
+        .menu .remote img {
+            width: 30px;
+            height: 30px;
+        }
+
+        .content {
+            background-color: #ffffff;
+        }
+
+        .footer {
+            padding-top: 100px;
+            background-color: #a1a1a0;
+            color: #000000;
+            font-family: "Verdana", sans-serif;
+            font-size: 0.7em;
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+    {% block header %}{% endblock %}
+</div>
+<div class="menu fixed-width">
+    {% include 'menu.html' %}
+</div>
+<div class="content fixed-width">
+    {% block content %}{% endblock %}
+</div>
+<div class="footer fixed-width">
+    {% include 'footer.html' %}
+</div>
+</body>
+</html>
