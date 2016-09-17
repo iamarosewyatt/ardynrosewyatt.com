@@ -1,9 +1,24 @@
 {% extends 'layout.html' %}
-
-{% block header %}
-<img src="" alt="Home" height="400"/>
-{% endblock %}
-
 {% block content %}
-this is the home page!
+
+<img class="title" src="/static/images/title.png" alt="Ardyn Rose Wyatt"/>
+{% include 'menu.html' %}
+<!--{% include 'social-links.html' %}-->
+
+<img class="header" src="/static/images/home-header.png" alt="Home"/>
+
+<div class="three-images">
+    <a href="/about"><img src="/static/images/about-link.png" alt="About"/></a>
+    <a href="/journal"><img src="/static/images/about-link.png" alt="Journal"/></a>
+    <a href="/cool-stuff"><img src="/static/images/about-link.png" alt="Cool Stuff"/></a>
+</div>
+
+<div class="three-images">
+    <a href="/more-cool-stuff"><img src="/static/images/about-link.png" alt="More Cool Stuff"/></a>
+    <a href="/static/pdf/empathy-forgiveness-love.pdf"><img src="/static/images/empathy-forgiveness-love-link.png" alt="Empathy Forgiveness Love"/></a>
+    <a href="/book"><img src="/static/images/book-link.png" alt="Book"/></a>
+</div>
+
+{% include 'footer.html' %}
+
 {% endblock %}

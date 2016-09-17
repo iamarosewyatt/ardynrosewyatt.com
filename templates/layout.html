@@ -1,17 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Ardyn Rose Wyatt | Remembering the Beauty that we Are</title>
+    <title>Ardyn Rose Wyatt | remembering the beauty that we are</title>
+    <link href="https://fonts.googleapis.com/css?family=Amatica+SC|Amiko" rel="stylesheet">
     <style>
+
+        /* ----- html elements ----- */
+
         html {
-            font-family: "Courier New", monospace;
+            font-family: 'Amiko', sans-serif;
+            font-size: 1.5em;
         }
 
         body {
-            background-color: #f5f5f0;
+            background-color: #fff;
             padding: 0;
             margin: 0;
         }
+
+        input, button {
+            font-family: 'Amiko', sans-serif;
+            font-size: 1em;
+        }
+
+        input {
+            padding: 0 5px;
+        }
+
+        div, ul, form {
+            /*border: 1px #000 dashed;*/
+        }
+
+        /* ----- utility classes ----- */
 
         .simple-list {
             list-style-type: none;
@@ -19,100 +39,130 @@
             margin: 0;
         }
 
-        .horizontal-list li {
+        .horizontal-list {
+            display: block;
             list-style-type: none;
             padding: 0;
             margin: 0;
-            float: left;
         }
 
-        .bordered-list li {
-            border-right: 3px #f5f5f0 solid;
+        .horizontal-list li {
+            display: inline-block;
+            padding: 0;
+            margin: 0;
         }
 
-        .bordered-list li:last-child {
-            border-right: 0;
+        .bordered-list li:after {
+            content: '\2218';
+            padding: 0 5px;
         }
 
-        .fixed-width {
+        .bordered-list li:last-child:after {
+            content: '';
+            padding: 0;
+        }
+
+        /* ----- structural elements ----- */
+
+        .content {
             width: 1200px;
             margin: 0 auto;
             padding: 20px;
         }
 
-        .header img {
+        .title {
             display: block;
-            width: 100%;
+            text-align: center;
+            height: 150px;
+            width: 500px;
             padding: 0;
-            margin: 0;
+            margin: 0 auto 20px auto;
         }
 
         .menu {
-            background-color: #ffffff;
+            text-align: center;
+            font-family: "Amatica SC", cursive;
+            font-weight: bold;
+            font-size: 2em;
+            border-top: 2px #000 solid;
+            border-bottom: 2px #000 solid;
+            margin-bottom: 20px;
         }
 
         .menu a {
             text-decoration: none;
+            color: #000;
         }
 
-        .menu ul {
-            display: inline-block;
-            padding: 0;
-            margin: 0;
-            height: 30px;
-            line-height: 30px;
-            vertical-align: top;
+        .social-links {
+            text-align: center;
         }
 
-        .menu ul li {
-            padding: 0;
-            margin: 0;
-        }
-
-        .menu .local li {
-            padding-left: 30px;
-            padding-right: 30px;
-        }
-
-        .menu .remote {
-            float: right;
-            margin-right: 30px;
-        }
-
-        .menu .remote li {
-            margin-left: 10px;
-        }
-
-        .menu .remote img {
+        .social-links img {
             width: 30px;
             height: 30px;
         }
 
-        .content {
-            background-color: #ffffff;
+        .header {
+            display: block;
+            text-align: center;
+            width: 1200px;
+            height: 500px;
+            margin: 20px auto 20px auto;
         }
 
-        .footer {
-            padding-top: 100px;
-            background-color: #a1a1a0;
-            color: #000000;
-            font-family: "Verdana", sans-serif;
-            font-size: 0.7em;
+        .newsletter {
+            display: block;
+            text-align: center;
+            font-size: 75%;
+            padding: 10px 50px;
+            margin: 10px 0;
+            border-top: 2px #000 solid;
+            border-bottom: 2px #000 solid;
         }
+
+        .newsletter input {
+            margin: 0 10px;
+        }
+
+        .legal {
+            text-align: center;
+            font-size: 50%;
+        }
+
+        .three-images {
+            font-size: 0;
+            margin: 20px 0;
+        }
+
+        .three-images a {
+            display: inline-block;
+            width: 385px;
+            height: 260px;
+            margin: 0 11px;
+            font-size: 1em;
+        }
+
+        .three-images a:first-child {
+            margin-left: 0;
+        }
+
+        .three-images a:last-child {
+            margin-right: 0;
+        }
+
+        .three-images img {
+            width: 100%;
+            height: 100%;
+        }
+
     </style>
 </head>
 <body>
-<div class="header">
-    {% block header %}{% endblock %}
-</div>
-<div class="menu fixed-width">
-    {% include 'menu.html' %}
-</div>
-<div class="content fixed-width">
+
+<div class="content">
     {% block content %}{% endblock %}
 </div>
-<div class="footer fixed-width">
-    {% include 'footer.html' %}
-</div>
+
 </body>
 </html>
