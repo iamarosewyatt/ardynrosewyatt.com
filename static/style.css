@@ -74,7 +74,7 @@ div, ul, form {
 
 .menu {
     text-align: center;
-    font-family: "Amatica SC", cursive;
+    font-family: "Amatic SC", cursive;
     font-weight: bold;
     font-size: 2em;
     border-top: 2px #000 solid;
@@ -100,7 +100,6 @@ div, ul, form {
     display: block;
     text-align: center;
     width: 1200px;
-    height: 500px;
     margin: 20px auto 20px auto;
 }
 
@@ -131,7 +130,7 @@ div, ul, form {
 .three-images a {
     display: inline-block;
     width: 385px;
-    height: 260px;
+    /*height: 260px;*/
     margin: 0 11px;
     font-size: 1em;
 }
