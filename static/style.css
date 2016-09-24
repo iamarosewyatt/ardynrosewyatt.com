@@ -206,3 +206,8 @@ div, ul, form {
 .cool-stuff .align-right     { text-align: right; clear: both; }
 .cool-stuff .align-right img { float: right; }
 .cool-stuff .align-right a   { clear: right; }
+
+.book .excerpt {
+    padding: 0 20px;
+    font-style: italic;
+}
