@@ -7,16 +7,34 @@
 
 <img class="header" src="/static/images/home-header.png" alt="Home"/>
 
-<div class="three-images">
-    <a href="/about"><img src="/static/images/about-link.png" alt="About"/></a>
-    <a href="/journal"><img src="/static/images/journal-link.png" alt="Journal"/></a>
-    <a href="/cool-stuff"><img src="/static/images/cool-stuff-link.png" alt="Cool Stuff"/></a>
-</div>
-
-<div class="three-images">
-    <a href="/more-cool-stuff"><img src="/static/images/more-cool-stuff-link.png" alt="More Cool Stuff"/></a>
-    <a href="/static/media/The best idea God ever had.pdf"><img src="/static/images/best-idea-link.png" alt="The best idea God ever had"/></a>
-    <a href="/book"><img src="/static/images/book-link.png" alt="Book"/></a>
+<div class="home clearfix">
+    <div class="row">
+        <a class="column" href="/about">
+            <img src="/static/images/about-link.png" alt="About"/>
+            <span>about</span>
+        </a>
+        <a class="column" href="/journal">
+            <img src="/static/images/journal-link.png" alt="Journal"/>
+            <span>journal</span>
+        </a>
+        <a class="column" href="/cool-stuff">
+            <img src="/static/images/cool-stuff-link.png" alt="Cool Stuff"/>
+            <span>cool stuff</span>
+        </a>
+    </div>
+    <div class="row">
+        <a class="column" href="/more-cool-stuff">
+            <img src="/static/images/more-cool-stuff-link.png" alt="More Cool Stuff"/>
+            <span>more cool stuff</span>
+        </a>
+        <a class="column" href="/static/media/The best idea God ever had.pdf">
+            <img src="/static/images/best-idea-link.png" alt="The best idea God ever had"/>
+        </a>
+        <a class="column" href="/book">
+            <img src="/static/images/book-link.png" alt="Book"/>
+            <span>book</span>
+        </a>
+    </div>
 </div>
 
 {% include 'footer.html' %}

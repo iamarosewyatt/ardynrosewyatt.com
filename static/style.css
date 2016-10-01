@@ -1,19 +1,19 @@
 /* ----- html elements ----- */
 
 html {
-    font-family: 'Amiko', sans-serif;
+    font-family: 'Pavanam', sans-serif;
     font-size: 1.5em;
+}
+
+input, button {
+    font-family: 'Pavanam', sans-serif;
+    font-size: 1em;
 }
 
 body {
     background-color: #fff;
     padding: 0;
     margin: 0;
-}
-
-input, button {
-    font-family: 'Amiko', sans-serif;
-    font-size: 1em;
 }
 
 input {
@@ -55,10 +55,6 @@ div, ul, form {
     padding: 0;
 }
 
-.prose {
-    font-family: "Pavanam", sans-serif;
-}
-
 .centered {
     text-align: center;
 }
@@ -69,20 +65,6 @@ div, ul, form {
    display: block;
    height: 0;
    clear: both;
-}
-
-.pdf:before {
-    content: url('/static/images/pdf-24x24.png');
-    margin: 0 5px;
-    /*padding: 0;*/
-    vertical-align: -15%;
-}
-
-.tiff:before {
-    content: url('/static/images/tiff-24x24.png');
-    margin: 0 5px;
-    /*padding: 0;*/
-    vertical-align: -15%;
 }
 
 /* ----- structural elements ----- */
@@ -152,30 +134,30 @@ div, ul, form {
     font-size: 50%;
 }
 
-.three-images {
-    font-size: 0;
-    margin: 20px 0;
-}
-
-.three-images a {
-    display: inline-block;
-    width: 385px;
-    /*height: 260px;*/
+.home .column {
+    display: block;
+    float: left;
+    text-align: center;
     margin: 0 11px;
-    font-size: 1em;
+    text-decoration: none;
+    padding: 0;
+    color: #000;
+    font-weight: bold;
 }
 
-.three-images a:first-child {
+.home .column:first-child {
     margin-left: 0;
 }
 
-.three-images a:last-child {
+.home .column:last-child {
     margin-right: 0;
 }
 
-.three-images img {
-    width: 100%;
-    height: 100%;
+.home .column span {
+    display: block;
+    font-family: "Open Sans Condensed", sans-serif;
+    margin: -5px 0 5px 0;
+    padding: 0;
 }
 
 .timeline .date {
