@@ -113,6 +113,7 @@ div, ul, form {
     text-align: center;
     width: 1200px;
     margin: 20px auto 20px auto;
+    border: 1px #000 solid;
 }
 
 .newsletter {
@@ -138,7 +139,7 @@ div, ul, form {
     display: block;
     float: left;
     text-align: center;
-    margin: 0 11px;
+    margin: 0;
     text-decoration: none;
     padding: 0;
     color: #000;
@@ -147,13 +148,23 @@ div, ul, form {
 
 .home .column:first-child {
     margin-left: 0;
+    margin-right: 19px;
 }
 
 .home .column:last-child {
     margin-right: 0;
+    margin-left: 19px;
 }
 
-.home .column span {
+.home img {
+    border: 1px #000 solid;
+}
+
+.home img.borderless {
+    border: 0;
+}
+
+.home span {
     display: block;
     font-family: "Open Sans Condensed", sans-serif;
     margin: -5px 0 5px 0;
