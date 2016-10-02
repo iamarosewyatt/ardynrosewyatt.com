@@ -7,6 +7,6 @@ urlpatterns = [
     url(r'^about/', include('about.urls')),
     url(r'^journal/', include('journal.urls')),
     url(r'^cool-stuff/', include('cool_stuff.urls')),
-    url(r'^more-cool-stuff/', include('more_cool_stuff.urls')),
+    url(r'^whats-coming/', include('whats_coming.urls')),
     url(r'^book/', include('book.urls')),
 ]
