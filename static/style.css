@@ -134,10 +134,31 @@ img.header {
     margin: 10px 0;
     border-top: 2px #000 solid;
     border-bottom: 2px #000 solid;
+    line-height: 40px;
 }
 
-.newsletter input {
-    margin: 0 10px;
+.newsletter label {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 125%;
+    font-weight: bold;
+    letter-spacing: 1px;
+    vertical-align: middle;
+}
+
+.newsletter button {
+    cursor: pointer;
+    margin-left: 10px;
+    padding: 5px 10px;
+    vertical-align: middle;
+    color: #000;
+    background-color: #fff;
+    border-radius: 10px;
+    border: 2px #000 solid;
+    text-decoration: none;
+}
+
+.newsletter button:hover {
+    background-color: #eee;
 }
 
 .legal {
