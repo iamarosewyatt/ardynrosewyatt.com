@@ -168,10 +168,12 @@ img.header {
 
 .home img {
     border: 1px #000 solid;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
 }
 
 .home img.borderless {
     border: 0;
+    box-shadow: none;
 }
 
 .home span {
@@ -259,6 +261,8 @@ img.header {
 .cool-stuff .topic img {
     width: 600px;
     height: 300px;
+    border: 1px #000 solid;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
 }
 
 .cool-stuff .topic a {
