@@ -1,0 +1,47 @@
+{% extends 'layout.html' %}
+{% block content %}
+
+{% include 'menu.html' %}
+<img class="header" src="/static/images/journal-header.png" alt="Journal"/>
+
+<div class="journal">
+
+    <div class="navigation">
+        <span class="tag">{{ period }}</span>
+        <ul class="simple-list">
+            {% if posts %}
+                {% for post in posts %}
+                    <li><a href="">{{ post.title }}</a></li>
+                {% endfor %}
+            {% else %}
+                This archive is empty.
+            {% endif %}
+        </ul>
+    </div>
+
+    <div class="posts">
+
+        {% if posts %}
+            {% for post in posts %}
+            <div class="post">
+                <a class="header clearfix" href="">
+                    <span class="title">{{ post.title }}</span><!--
+                 --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
+                </a>
+                <p class="body">{{ post.content }}</p>
+                <ul class="centered horizontal-list">
+                    <li><a href="">Like</a></li>
+                    <li><a href="">Tweet</a></li>
+                </ul>
+            </div>
+            {% endfor %}
+        {% else %}
+            <div class="post centered">No posts found in this archive.</div>
+        {% endif %}
+
+    </div>
+</div>
+
+{% include 'footer.html' %}
+
+{% endblock %}
