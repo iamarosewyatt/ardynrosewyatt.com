@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+{% block content %}
+
+{% include 'menu.html' %}
+
+<div class="journal">
+    <div class="post">
+        <a class="header clearfix" href="">
+            <span class="title">{{ post.title }}</span><!--
+         --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
+        </a>
+        <p class="body">{{ post.content }}</p>
+        <ul class="centered horizontal-list">
+            <li><a href="">Like</a></li>
+            <li><a href="">Tweet</a></li>
+        </ul>
+    </div>
+</div>
+
+{% include 'footer.html' %}
+
+{% endblock %}
