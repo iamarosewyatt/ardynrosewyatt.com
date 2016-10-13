@@ -28,7 +28,7 @@
                     <span class="title">{{ post.title }}</span><!--
                  --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
                 </a>
-                <p class="body">{{ post.content }}</p>
+                <p class="body">{{ post.content|truncatewords_html:50|safe }}</p>
                 <ul class="centered horizontal-list">
                     <li><a href="">Like</a></li>
                     <li><a href="">Tweet</a></li>
