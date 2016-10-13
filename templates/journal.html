@@ -45,7 +45,7 @@
                  --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
                 </a>
                 <img class="image" src="/{{ post.image }}" alt="{{ post.title }}"/>
-                <p class="body">{{ post.content|truncatewords_html:100|safe }}</p>
+                <p class="body">{{ post.content|truncatewords_html:50|safe }}</p>
             </div>
             {% endfor %}
         {% else %}
