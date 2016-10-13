@@ -26,10 +26,68 @@ _Requires: Python 3.3+_
 
     ```bash
     $ .venv/bin/python manage.py migrate
+    Operations to perform:
+      Apply all migrations: admin, auth, contenttypes, journal, sessions, sites
+    Running migrations:
+      Rendering model states... DONE
+      Applying contenttypes.0001_initial... OK
+      Applying auth.0001_initial... OK
+      Applying admin.0001_initial... OK
+      Applying admin.0002_logentry_remove_auto_add... OK
+      Applying contenttypes.0002_remove_content_type_name... OK
+      Applying auth.0002_alter_permission_name_max_length... OK
+      Applying auth.0003_alter_user_email_max_length... OK
+      Applying auth.0004_alter_user_username_opts... OK
+      Applying auth.0005_alter_user_last_login_null... OK
+      Applying auth.0006_require_contenttypes_0002... OK
+      Applying auth.0007_alter_validators_add_error_messages... OK
+      Applying auth.0008_alter_user_username_max_length... OK
+      Applying journal.0001_initial... OK
+      Applying sessions.0001_initial... OK
+      Applying sites.0001_initial... OK
+      Applying sites.0002_alter_domain_unique... OK
+      ```
+
+3. Create an administrator account
+
+    ```bash
+    $ .venv/bin/python manage.py createsuperuser
+    Username (leave blank to use 'root'): admin
+    Email address:
+    Password: ********
+    Password (again): ********
+    Superuser created successfully.
     ```
 
-3. Start the server
+4. Gather all of the assets into the static directory
+
+    ```bash
+    $ .venv/bin/python manage.py collectstatic
+
+    You have requested to collect static files at the destination
+    location as specified in your settings:
+
+        /var/www/ArdynRoseWyatt/static
+
+    This will overwrite existing files!
+    Are you sure you want to do this?
+
+    Type 'yes' to continue, or 'no' to cancel: yes
+    ... snipped a bunch of copies for brevity ...
+
+    1182 static files copied to '/var/www/ArdynRoseWyatt/static'.
+
+    ```
+
+5. Start the development server
 
     ```bash
     $ .venv/bin/python manage.py runserver
+    Performing system checks...
+
+    System check identified no issues (0 silenced).
+    October 13, 2016 - 17:42:53
+    Django version 1.10, using settings 'settings'
+    Starting development server at http://localhost:8080/
+    Quit the server with CONTROL-C.
     ```

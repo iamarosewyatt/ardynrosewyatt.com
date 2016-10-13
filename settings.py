@@ -27,6 +27,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
+    'ckeditor',
     'journal'
 ]
 
@@ -107,3 +108,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATICFILES_DIRS = ('assets',)
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+# See https://github.com/django-ckeditor/django-ckeditor#installation
+CKEDITOR_JQUERY_URL = '//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'
