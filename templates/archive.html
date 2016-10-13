@@ -1,5 +1,6 @@
 {% extends 'layout.html' %}
 {% block content %}
+{% load tagging_tags %}
 
 {% include 'menu.html' %}
 <img class="header" src="/static/images/journal-header.png" alt="Journal"/>
@@ -8,14 +9,14 @@
 
     <div class="navigation">
         <div class="popout">
-            <span class="tag">{{ period }}</span>
+            <span class="header">{{ filter }}</span>
             <ul class="simple-list">
                 {% if posts %}
                     {% for post in posts %}
-                        <li><a href="">{{ post.title }}</a></li>
+                        <li><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></li>
                     {% endfor %}
                 {% else %}
-                    This archive is empty.
+                    <em>none</em>
                 {% endif %}
             </ul>
         </div>
@@ -26,15 +27,18 @@
         {% if posts %}
             {% for post in posts %}
             <div class="post">
-                <a class="header clearfix" href="">
+                <a class="header clearfix" href="{{ post.get_absolute_url }}">
                     <span class="title">{{ post.title }}</span><!--
                  --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
                 </a>
+                <div class="tags">
+                    {% tags_for_object post as tag_list %}
+                    tags:
+                    {% for tag in tag_list %}
+                        <a href="/journal/tag/{{ tag }}">{{ tag }}</a>
+                    {% endfor %}
+                </div>
                 <p class="body">{{ post.content|truncatewords_html:50|safe }}</p>
-                <ul class="centered horizontal-list">
-                    <li><a href="">Like</a></li>
-                    <li><a href="">Tweet</a></li>
-                </ul>
             </div>
             {% endfor %}
         {% else %}

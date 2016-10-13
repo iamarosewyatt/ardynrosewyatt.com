@@ -223,7 +223,7 @@ img.header {
     vertical-align: top;
 }
 
-.journal .navigation .tag {
+.journal .navigation .header  {
     display: inline-block;
     font-family: 'Amatic SC', cursive;
     font-size: 125%;
@@ -233,11 +233,11 @@ img.header {
     margin-bottom: 5px;
 }
 
-.journal .navigation .tags > li {
+.journal .navigation .categories > li {
     margin-top: 20px;
 }
 
-.journal .navigation .tags > li:first-child {
+.journal .navigation .categories > li:first-child {
     margin-top: 0;
 }
 
@@ -245,6 +245,12 @@ img.header {
     font-family: 'Open Sans Condensed', sans-serif;
     text-decoration: none;
 }
+
+.journal .navigation a:before {
+    content: '\2218';
+    padding-right: 5px;
+}
+
 .journal .navigation a:hover {
     font-weight: bold;
 }
@@ -280,6 +286,12 @@ img.header {
     width: 24%;
     text-align: right;
     font-size: 150%;
+}
+
+.journal .post .tags {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 80%;
+    margin-right: 10px;
 }
 
 .journal .post .image {

@@ -1,5 +1,6 @@
 {% extends 'layout.html' %}
 {% block content %}
+{% load tagging_tags %}
 
 {% include 'menu.html' %}
 <img class="header" src="/static/images/journal-header.png" alt="Journal"/>
@@ -7,10 +8,10 @@
 <div class="journal">
 
     <div class="navigation">
-        <ul class="tags simple-list">
+        <ul class="categories simple-list">
             {% for tag in tags %}
             <li class="popout">
-                <span class="tag">{{ tag.name }}</span>
+                <span class="header">{{ tag.name }}</span>
                 <ul class="simple-list">
                     {% for post in tag.posts %}
                     <li><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></li>
@@ -30,6 +31,13 @@
                     <span class="title">{{ post.title }}</span><!--
                  --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
                 </a>
+                <div class="tags">
+                    {% tags_for_object post as tag_list %}
+                    tags:
+                    {% for tag in tag_list %}
+                        <a href="/journal/tag/{{ tag }}">{{ tag }}</a>
+                    {% endfor %}
+                </div>
                 <p class="body">{{ post.content|truncatewords_html:50|safe }}</p>
             </div>
             {% endfor %}
