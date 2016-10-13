@@ -6,7 +6,7 @@ from django.utils import timezone
 
 class Post(Model):
     title = CharField(max_length=200)
-    image = ImageField(upload_to="static/uploads/")
+    image = ImageField(upload_to='')
     content = RichTextField()
     created = DateTimeField(editable=False)
     modified = DateTimeField(editable=False)
