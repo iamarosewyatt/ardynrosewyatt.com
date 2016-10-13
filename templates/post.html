@@ -3,11 +3,11 @@
 {% block title %}{{ post.title }}{% endblock %}
 
 {% block head %}
-    <meta property="og:url" content="{{ post.permalink }}" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="{{ post.title }}" />
-    <meta property="og:image" content="/{{ post.image }}" />
-    <meta property="og:description" content="{{ post.content|truncatewords:20 }}" />
+<meta property="og:url" content="{{ post.permalink }}"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="{{ post.title }}"/>
+<meta property="og:image" content="/{{ post.image }}"/>
+<meta property="og:description" content="{{ post.content|striptags|truncatewords:20 }}"/>
 {% endblock %}
 
 {% block content %}
@@ -21,7 +21,7 @@
          --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
         </a>
         <img class="image" src="/{{ post.image }}" alt="{{ post.title }}"/>
-        <p class="body">{{ post.content }}</p>
+        <p class="body">{{ post.content|safe }}</p>
         <ul class="centered horizontal-list">
             <li>
                 <div class="fb-share-button"
@@ -35,19 +35,45 @@
                     </a>
                 </div>
             </li>
+            <li>
+                <div>
+                    <a class="twitter-share-button"
+                       href="https://twitter.com/intent/tweet?text=Ardyn%20Rose%20Wyatt -- {{ post.title|urlencode:'' }}"
+                       data-size="large">
+                        Tweet
+                    </a>
+                </div>
+            </li>
         </ul>
     </div>
 </div>
 
 {% include 'footer.html' %}
 
+<!-- FACEBOOK JS -->
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=538042566291274";
-  fjs.parentNode.insertBefore(js, fjs);
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=538042566291274";
+    fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- TWITTER JS -->
+<script>window.twttr = (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0], t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    t._e = [];
+    t.ready = function (f) {
+        t._e.push(f);
+    };
+    return t;
+}(document, "script", "twitter-wjs"));</script>
 
 {% endblock %}

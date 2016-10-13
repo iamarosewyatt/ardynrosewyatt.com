@@ -5,7 +5,7 @@ from django.contrib.sites.models import Site
 
 class Post(models.Model):
     title = models.CharField(max_length=200)
-    image = models.ImageField(upload_to="static/images/journal/")
+    image = models.ImageField(upload_to="static/uploads/")
     content = models.TextField()
     created = models.DateTimeField(editable=False)
     modified = models.DateTimeField(editable=False)
