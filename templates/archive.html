@@ -7,16 +7,18 @@
 <div class="journal">
 
     <div class="navigation">
-        <span class="tag">{{ period }}</span>
-        <ul class="simple-list">
-            {% if posts %}
-                {% for post in posts %}
-                    <li><a href="">{{ post.title }}</a></li>
-                {% endfor %}
-            {% else %}
-                This archive is empty.
-            {% endif %}
-        </ul>
+        <div class="popout">
+            <span class="tag">{{ period }}</span>
+            <ul class="simple-list">
+                {% if posts %}
+                    {% for post in posts %}
+                        <li><a href="">{{ post.title }}</a></li>
+                    {% endfor %}
+                {% else %}
+                    This archive is empty.
+                {% endif %}
+            </ul>
+        </div>
     </div>
 
     <div class="posts">

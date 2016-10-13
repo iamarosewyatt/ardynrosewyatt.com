@@ -77,6 +77,14 @@ div, ul, form {
    clear: both;
 }
 
+.popout {
+    background-color: #fff;
+    border: 1px #000 solid;
+    margin-right: 20px;
+    padding: 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
 /* ----- structural elements ----- */
 
 .content {
