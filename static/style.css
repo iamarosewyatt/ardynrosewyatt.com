@@ -258,8 +258,8 @@ img.header {
     font-family: "Amatic SC", cursive;
     letter-spacing: 2px;
     color: #000;
-    border-bottom: 2px #000 solid;
 }
+
 .journal .post .title {
     display: inline-block;
     width: 75%;
@@ -272,6 +272,11 @@ img.header {
     width: 24%;
     text-align: right;
     font-size: 150%;
+}
+
+.journal .post .image {
+    width: 100%;
+    margin-top: 25px;
 }
 
 .cool-stuff .topic {

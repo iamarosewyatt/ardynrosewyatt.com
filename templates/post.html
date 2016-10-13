@@ -9,6 +9,7 @@
             <span class="title">{{ post.title }}</span><!--
          --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
         </a>
+        <img class="image" src="/{{ post.image }}" alt="{{ post.title }}"/>
         <p class="body">{{ post.content }}</p>
         <ul class="centered horizontal-list">
             <li><a href="">Like</a></li>
