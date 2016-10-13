@@ -12,6 +12,9 @@ SECRET_KEY = ')_qi#*%wg8+=b-@e0q@3n-54g_tz(h4g@w(fc#tzs-n^^07kvw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# See https://docs.djangoproject.com/en/1.10/ref/contrib/sites/#module-django.contrib.sites
+SITE_ID = 1
+
 ALLOWED_HOSTS = []
 
 # Application definition
@@ -23,6 +26,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.sites',
     'journal'
 ]
 

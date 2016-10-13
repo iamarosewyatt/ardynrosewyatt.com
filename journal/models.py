@@ -1,5 +1,6 @@
 from django.db import models
 from django.utils import timezone
+from django.contrib.sites.models import Site
 
 
 class Post(models.Model):
@@ -11,6 +12,18 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
+
+    def permalink(self):
+        return 'http://{}{}'.format(Site.objects.get_current(), self.get_absolute_url())
+
+    def get_absolute_url(self):
+        from django.urls import reverse
+        return reverse('journal.views.post', args=[
+            self.created.year,
+            self.created.month,
+            self.created.day,
+            self.id
+        ])
 
     def save(self, *args, **kwargs):
         if not self.id:

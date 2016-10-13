@@ -1,4 +1,15 @@
 {% extends 'layout.html' %}
+
+{% block title %}{{ post.title }}{% endblock %}
+
+{% block head %}
+    <meta property="og:url" content="{{ post.permalink }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ post.title }}" />
+    <meta property="og:image" content="/{{ post.image }}" />
+    <meta property="og:description" content="{{ post.content|truncatewords:20 }}" />
+{% endblock %}
+
 {% block content %}
 
 {% include 'menu.html' %}
@@ -12,12 +23,31 @@
         <img class="image" src="/{{ post.image }}" alt="{{ post.title }}"/>
         <p class="body">{{ post.content }}</p>
         <ul class="centered horizontal-list">
-            <li><a href="">Like</a></li>
-            <li><a href="">Tweet</a></li>
+            <li>
+                <div class="fb-share-button"
+                     data-href="{{ post.permalink }}"
+                     data-layout="button"
+                     data-size="large"
+                     data-mobile-iframe="false">
+                    <a class="fb-xfbml-parse-ignore" target="_blank"
+                       href="https://www.facebook.com/sharer/sharer.php?u={{ post.permalink|urlencode:'' }}&amp;src=sdkpreparse">
+                        Share
+                    </a>
+                </div>
+            </li>
         </ul>
     </div>
 </div>
 
 {% include 'footer.html' %}
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=538042566291274";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 {% endblock %}

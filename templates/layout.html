@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Ardyn Rose Wyatt | remembering the beauty that we are</title>
+    <title>Ardyn Rose Wyatt | {% block title %}remembering the beauty that we are{% endblock %}</title>
     <link href="https://fonts.googleapis.com/css?family=Pavanam|Amatic+SC|Open+Sans+Condensed:300" rel="stylesheet">
     <link href="/static/style.css" rel="stylesheet">
+{% block head %}
+    <meta property="og:url" content="http://www.ardynrosewyatt.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Ardyn Rose Wyatt" />
+    <meta property="og:image" content="/static/images/about-header-with-text.png" />
+    <meta property="og:description" content="Remembering the beauty that we are." />
+{% endblock %}
 </head>
 <body>
 
