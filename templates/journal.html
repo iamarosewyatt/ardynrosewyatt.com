@@ -44,7 +44,6 @@
                     <span class="title">{{ post.title }}</span><!--
                  --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
                 </a>
-                <img class="image" src="{{ MEDIA_URL }}{{ post.image }}" alt="{{ post.title }}"/>
                 <p class="body">{{ post.content|truncatewords_html:50|safe }}</p>
             </div>
             {% endfor %}
