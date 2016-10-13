@@ -46,7 +46,9 @@ _Requires: Python 3.3+_
       Applying sessions.0001_initial... OK
       Applying sites.0001_initial... OK
       Applying sites.0002_alter_domain_unique... OK
-      ```
+      Applying tagging.0001_initial... OK
+      Applying tagging.0002_on_delete... OK
+    ```
 
 3. Create an administrator account
 

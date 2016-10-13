@@ -8,30 +8,16 @@
 
     <div class="navigation">
         <ul class="tags simple-list">
+            {% for tag in tags %}
             <li>
-                <span class="tag">empathy</span>
+                <span class="tag">{{ tag.name }}</span>
                 <ul class="simple-list">
-                    <li><a href="">Forgiven: A True Story</a></li>
-                    <li><a href="">Ideas of Love</a></li>
-                    <li><a href="">Silent Night</a></li>
+                    {% for post in tag.posts %}
+                    <li><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></li>
+                    {% endfor %}
                 </ul>
             </li>
-            <li>
-                <span class="tag">forgiveness</span>
-                <ul class="simple-list">
-                    <li><a href="">Dear Mr. President</a></li>
-                    <li><a href="">I Choose Better</a></li>
-                    <li><a href="">Forgiveness</a></li>
-                </ul>
-            </li>
-            <li>
-                <span class="tag">love</span>
-                <ul class="simple-list">
-                    <li><a href="">My Dear Daughter(s)</a></li>
-                    <li><a href="">What We're Made Of</a></li>
-                    <li><a href="">The Creek and the Stars</a></li>
-                </ul>
-            </li>
+            {% endfor %}
         </ul>
     </div>
 

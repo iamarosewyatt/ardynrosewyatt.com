@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'ckeditor',
+    'tagging',
     'journal'
 ]
 
@@ -111,3 +112,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'uploads')
 
 # See https://github.com/django-ckeditor/django-ckeditor#installation
 CKEDITOR_JQUERY_URL = '//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'
+
+# See http://django-tagging.readthedocs.io/en/develop/#settings
+FORCE_LOWERCASE_TAGS = True

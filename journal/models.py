@@ -2,11 +2,13 @@ from ckeditor.fields import RichTextField
 from django.contrib.sites.models import Site
 from django.db.models import Model, CharField, ImageField, DateTimeField
 from django.utils import timezone
+from tagging.fields import TagField
 
 
 class Post(Model):
     title = CharField(max_length=200)
     image = ImageField(upload_to='')
+    tags = TagField()
     content = RichTextField()
     created = DateTimeField(editable=False)
     modified = DateTimeField(editable=False)
