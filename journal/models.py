@@ -1,6 +1,7 @@
 from ckeditor.fields import RichTextField
 from django.contrib.sites.models import Site
-from django.db.models import Model, CharField, ImageField, DateTimeField
+from django.db.models import Model, CharField, ImageField, DateTimeField, SlugField
+from django.template.defaultfilters import slugify
 from django.utils import timezone
 from tagging.fields import TagField
 
@@ -12,6 +13,7 @@ class Post(Model):
     content = RichTextField()
     created = DateTimeField(editable=False)
     modified = DateTimeField(editable=False)
+    slug = SlugField(editable=False)
 
     def __str__(self):
         return self.title
@@ -25,11 +27,12 @@ class Post(Model):
             self.created.year,
             self.created.month,
             self.created.day,
-            self.id
+            self.slug
         ])
 
     def save(self, *args, **kwargs):
         if not self.id:
             self.created = timezone.now()
         self.modified = timezone.now()
+        self.slug = slugify(self.title)
         return super(Post, self).save(*args, **kwargs)
