@@ -25,24 +25,24 @@ def _build_tagged_posts(tag):
 
 
 def by_year(request, year):
-    posts = Post.objects.filter(created__year=year).order_by('-created')
+    posts = Post.objects.filter(created__year=year).order_by('created')
     return archive(request, year, posts)
 
 
 def by_month(request, year, month):
-    posts = Post.objects.filter(created__year=year, created__month=month).order_by('-created')
+    posts = Post.objects.filter(created__year=year, created__month=month).order_by('created')
     timestamp = date(year=int(year), month=int(month), day=1)
     return archive(request, date_format(timestamp, "F Y"), posts)
 
 
 def by_day(request, year, month, day):
-    posts = Post.objects.filter(created__year=year, created__month=month, created__day=day).order_by('-created')
+    posts = Post.objects.filter(created__year=year, created__month=month, created__day=day).order_by('created')
     timestamp = date(year=int(year), month=int(month), day=int(day))
     return archive(request, date_format(timestamp, "F jS, Y"), posts)
 
 
 def by_tag(request, tag):
-    posts = TaggedItem.objects.get_by_model(Post, tag)
+    posts = TaggedItem.objects.get_by_model(Post, tag).order_by('-created')
     return archive(request, tag, posts)
 
 
