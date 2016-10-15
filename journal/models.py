@@ -34,5 +34,6 @@ class Post(Model):
         if not self.id:
             self.created = timezone.now()
         self.modified = timezone.now()
-        self.slug = slugify(self.title)
+        if not self.slug:
+            self.slug = slugify(self.title)
         return super(Post, self).save(*args, **kwargs)
