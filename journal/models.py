@@ -23,7 +23,7 @@ class Post(Model):
         return 'http://{}{}'.format(Site.objects.get_current(), self.get_absolute_url())
 
     def get_absolute_url(self):
-        return reverse('journal.post', args=[
+        return reverse('journal:post', args=[
             self.created.year,
             self.created.month,
             self.created.day,
