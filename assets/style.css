@@ -1,14 +1,3 @@
-body {
-    /*background-color: #ffffff;*/
-    background-color: #f5f5f0;
-}
-
-.journal .post,
-.book .excerpt {
-    /*background-color: #f5f5f0;*/
-    background-color: #ffffff;
-}
-
 /* ----- html elements ----- */
 
 html {
@@ -22,6 +11,7 @@ input, button {
 }
 
 body {
+    background-color: #f5f5f0;
     padding: 0;
     margin: 0;
 }
@@ -83,6 +73,7 @@ div, ul, form {
     margin-right: 20px;
     padding: 10px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    border-radius: 6px;
 }
 
 /* ----- structural elements ----- */
@@ -263,8 +254,10 @@ img.header {
 .journal .post {
     border: 1px #000 solid;
     box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    border-radius: 6px;
     padding: 20px;
     margin-bottom: 30px;
+    background-color: #ffffff;
 }
 
 .journal .post .header {
@@ -378,4 +371,6 @@ img.header {
     font-style: italic;
     border: 1px #000 solid;
     box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    background-color: #ffffff;
+    border-radius: 6px;
 }
