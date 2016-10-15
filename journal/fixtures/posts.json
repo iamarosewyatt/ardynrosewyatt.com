@@ -1,0 +1,769 @@
+[
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "rose.jpg",
+      "created": "2012-06-04T01:21:00Z",
+      "tags": "remember",
+      "content": "<p><span>It&rsquo;s a little like finding a favorite, old photograph you haven&rsquo;t seen in a very long time. It&rsquo;s of you, and seeing it takes you back to that moment, to how it felt. Bit&rsquo;s and pieces come to mind - where you lived, <a href=\"/journal/2013/04/08/remembering-love/\">who you loved</a>, <a href=\"/journal/2013/04/11/it-changed-everything/\">choices you made</a>, highlights of that former version of yourself.</span></p><p><span>This is remembering, calling-up in our awareness the unclaimed pieces that float in the undercurrent of our conscious and unconscious thoughts. <strong>This is what I'll be collecting, the highlights that, brought together, form the unquestionable memory of Beauty</strong>.<strong>And in the calling-up, I hope to deepen and expand my understanding of the Truth, and see it in ever-greater detail and appreciation.</strong></span></p><p><span>This is where I&rsquo;ll share the Love that I find, and the challenges, here in this journal. As I consciously address and create my day-to-day life, I'll share it here. A little like a quest, but more like sacred ground, a place and time where I&rsquo;ll allow myself to focus on the only thing that really matters - remembering the Love that we are.</span></p><p><span>Welcome.</span></p>",
+      "title": "Remembering the Beauty",
+      "modified": "2014-03-03T05:53:09Z",
+      "slug": "remembering-beauty-we-are"
+    },
+    "pk": 1
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "wedding dance_2.jpg",
+      "created": "2012-06-11T01:48:00Z",
+      "tags": "remember",
+      "content": "<p><span>It&rsquo;s been a while, but I still use it as a <a href=\"/journal/2013/04/13/reference-points/\">reference point</a>. It&rsquo;s the decision that changed everything.</span></p><p><span>Up until that moment I was ambivalent. I wanted more love in my life, but I was tired. I&rsquo;d done everything I could imagine - had loved my daughters, had read all the best books, had been in therapy, had come </span><em>so far - </em><span>but the experience of &lsquo;true love&rsquo; still eluded me.</span></p><p><span>When the moment arrived, when <a href=\"/real-life/\">Al needed me to stand by him,</a> I had to make a call. I had to decide, did I </span><em>really</em><span> want it - enough to ignore the peanut gallery in my mind, enough to let go of my resentment, enough to let go of everything I&rsquo;d been taught about how things are in &lsquo;real life&rsquo;?</span></p><p><span><span>That was </span><a href=\"/journal/2013/04/13/remembering-love/\">the choice</a><span>. </span><strong>Was my</strong><strong>desire to experience the Truth about myself powerful enough that I was willing to let go of </strong></span><strong><em>everything </em></strong><span><strong>in it&rsquo;s way?</strong></span></p><p><span>I made the call. I chose Love - in the face of overwhelming evidence to the contrary - I chose the deeper Truth - and it changed </span><em>everything.</em></p>",
+      "title": "It Changed Everything",
+      "modified": "2014-03-03T19:45:34Z",
+      "slug": "it-changed-everything"
+    },
+    "pk": 2
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Al_1.jpg",
+      "created": "2012-06-17T07:53:00Z",
+      "tags": "remember",
+      "content": "<p>A journal entry from my book - July 2002</p><p>A moment of remembering...</p><p>When love assumes a forward position in my awareness, when I invite it out of the cheap seats, and into it&rsquo;s rightful place, front and center, I know it. An undercurrent of calm and a sense of breadth open up inside my chest. Perception is affected. I&rsquo;m able to imagine Al and me, both of us happily engaged in our concerns. I can see him in his uniqueness, behind his desk or coming out of the shower, and warmth for him fills me. <strong>I have space in my world for what he is, without judgment, without an urge to correct or adjust. The reflex to assume a contrasting position simply doesn&rsquo;t happen. </strong>We are two fish, swimming in a very large ocean, both at home, both sustained, buoyant in the water. His activity may affect the water that surrounds me, cause movement my way, only a nudge. I am assured. There is no fear that the ocean will suddenly dry up. The water is there for me, regardless.</p><p>When <a href=\"/real-life/\">Al </a>stopped insisting one of us had to be wrong. When he didn&rsquo;t have to talk so much, bring me into line with his point of view, when the idea of controlling the outcome became obviously ludicrous, love had a chance.</p><p>I see him more clearly than ever, sense myself more powerfully &ndash; bare naked awareness &ndash; without the urge to censor, no audience, no need to create an impression. Within the context of acceptance I can see us more truly and distinctively ourselves, loving both of us with an appreciation that enlivens me.\"</p>",
+      "title": "Remembering  ",
+      "modified": "2014-03-18T19:24:45Z",
+      "slug": "remembering-love"
+    },
+    "pk": 3
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "alandme.jpg",
+      "created": "2012-06-24T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>You are shining<br />my magnificent man<br />shaven head and withered arms<br />cry out for pity<br />in vain</p><p>Your body, foreign<br />but for the bonfire in your eyes<br />for muscle and skin deep winter<br />for the windows of your soul<br />the fourth of july<br />all blasting and sparkl</p><p>you are shining<br />my magnificent man<br />and in the cast of your light<br />i see everything brand new</p>",
+      "title": "Magnificent Man",
+      "modified": "2014-03-29T01:41:50Z",
+      "slug": "magnificent-man"
+    },
+    "pk": 4
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "create.jpeg",
+      "created": "2012-07-01T08:53:00Z",
+      "tags": "create",
+      "content": "<p><span>It has <em>everything</em></span><span>to do with remembering the beauty that we are. We each have this power, the power to create, and it is indelibly bound to our awareness of the truth that lives within us.</span></p><p><span>Of course I&rsquo;m talking about creativity in the most straight forward sense - when inspired, we write a poem or produce a painting. This can undoubtably be an expression of inner beauty.</span></p><p><span>I&rsquo;m also talking about &lsquo;creating&rsquo; with a capital &ldquo;C&rdquo;. The idea that our reality is subject to the contents of our own minds has been known by a few for a very long time, and has <a href=\"http://www.abraham-hicks.com/lawofattractionsource/index.php\" target=\"_blank\">gained popularity</a> over the last several years.</span></p><p><span>Financial success and soul mate search aside, my own creative intentions have been focused on creating clarity, healing and <a href=\"/journal/2013/04/11/it-changed-everything/\">love in my relationships</a>, including my relationship with myself. I&rsquo;ve had some amazing success and can offer this - <strong>the closer you live to your inner beauty, the stronger your desire, and the more focused your attention, the more powerful your creating</strong>.</span></p><p><span>Also, be prepared. Once you decide what you want, you'll be confronted with every personal belief that stands between you and your desired result. That&rsquo;s the &lsquo;catch&rsquo;. To have what is wanted, we must move through its opposite, all that's not wanted, in order to accept and love it. In so doing, we re-member the beauty that we are, and, with that memory create our worlds.</span></p>",
+      "title": "The Power to Create",
+      "modified": "2014-03-31T20:29:55Z",
+      "slug": "power-create"
+    },
+    "pk": 5
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "book_cover_designs_5_20120327_1981084982.png",
+      "created": "2012-07-08T08:53:00Z",
+      "tags": "create",
+      "content": "<p>I'd never thought of myself as a writer. Other than a personal journal, I'd never felt the urge to express myself in written word - that was for people with something to say. But, I'd <a href=\"/journal/2014/03/03/it-changed-everything/\">left my life behind</a>, and before I could move forward again, I needed to 'pull myself together'. Writing seemed the best way to do that. I had a record, had been diligent about keeping my journal, and now I could use it - bring all the <a href=\"/journal/2014/03/15/reference-points/\">reference points</a> together in one place. I called it \"writing (righting) myself\".</p><p>What began as an exercise in clarity became a labor of love. When people asked how my story was coming along, I'd say \"I'm falling in love with myself.\" It was true. From the vantage point of just-enough-time-and-distance, I could appreciate the 'me' I had been through the years. My heart, and sometimes my eyes, filled to overflowing for the woman I saw myself becoming through the events in my journal- a journey of self love.</p><p>Writing has now become one of the activities I use to express my true nature. With it, I look for my soft spots, my personal impressions and experiences that demand my vulnerability and honesty. When I'm fully engaged and competely focused on my intent to create something of beauty, I feel free. That's where I want to be.</p><p>From the back cover of my book...</p><p>\"Why did I come? To know the experience of Love. And why did I stay? I stayed becasue Love was there.</p><p>I know Love lives in me, the way I know there is breath in me, that my heart beats in this chest. Look, I ask my toes to wiggle, and I sense the motion of my muscles. I have movement through the life in my nerves and fiber.</p><p>This is how I know Love, in my breath, in my fiber, in my being. What is the best thing I learned? That Love is and Love stays.\"</p>",
+      "title": "Writing Myself",
+      "modified": "2014-03-31T20:29:55Z",
+      "slug": "writing-myself"
+    },
+    "pk": 6
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "stars_1.jpg",
+      "created": "2012-07-16T02:36:00Z",
+      "tags": "remember",
+      "content": "<p><span>I use the term &ldquo;reference points&rdquo; because it helps me see them. They're the activities, beliefs and memories I return to over and over because of the importance and meaning they have in my life. I&rsquo;ve had quite a collection - ideas about God, my daily jog, a favorite pair of jeans, the 3:00 afternoon snack at the office, my daughters&rsquo; educations, my ideas about being a twin - just to name a few.</span></p><p><span>I think we all have them. Many are provided to us by our families and communities - churches are expert at offering us these stars by which to steer our course. But, <strong>if we&rsquo;re learning and growing, our personal beliefs and practices will change and evolve - hopefully beyond the boundaries of our upbringing</strong>.</span></p><p><span>Before my <a href=\"/journal/2013/04/11/it-changed-everything/\">decision that changed everything</a>, my reference points were external, revolving around my job as Director of a non-profit, caring for my daughters, maintaining my physical health, and fixing my house. I made valiant attempts to nurture internal, spiritual reference points, but most of my energy was spent on the demands of survival and physical maintenance.</span></p><p><span>When I <a href=\"/journal/2013/04/12/remembering-love/\">decided to stay with Al</a>, I left my job, my home and my community. My daughters were both in college, so I felt free to commit my attention and energy wholly to his care. I let go of nearly everything, and focused vigilantly on making loving, moment-to-moment choices.</span></p><p><span>I changed my reference points. By letting go of the inaccurate ones, holding stubbornly to those I wanted to be more true in my life, I learned that I had the ability to create whatever I had the courage and passion to imagine.</span><span> </span></p>",
+      "title": "Reference Points",
+      "modified": "2015-05-21T05:46:33Z",
+      "slug": "reference-points"
+    },
+    "pk": 7
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "yellow rose_1.jpg",
+      "created": "2012-07-29T08:53:00Z",
+      "tags": "create",
+      "content": "<p>The most courageous acts are performed in solitude, without audience, without acknowledgement.</p><p>My most profoundly heroic moments are those moments when I'm called upon to face myself, in all honesty - to accept the truth of my humanity, limitations, fears, errors, ignorance and blemishes - then forgive this truth and rise up to another day.</p><p>This is only between me and my Self. There is no other there when I face the void that lives between my hopes about who I am, and my own, blessed, imperfection.</p><p>The choice I make at that moment defines me, creates me. The courage to accept my self, to have compassion for what I am not, and the heart to choose better, this is God work. </p>",
+      "title": "Courageous Acts",
+      "modified": "2014-03-31T20:29:55Z",
+      "slug": "courageous-acts"
+    },
+    "pk": 8
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Me and Kath2.jpg",
+      "created": "2012-08-05T08:53:00Z",
+      "tags": "remember",
+      "content": "<p><span>&ldquo;Living right-side-out&rdquo; - a phrase I made up, so I&rsquo;ll explain what I mean by it. To make it unmistakably clear, I&rsquo;ll describe its opposite, what it was like to live \"outside-in\".</span></p><p><span>First, my internal dialogue was overwhelmed by negative beliefs that had been drilled into me by an external source (think - fire and brimstone). Next, I decided my state of being through radar-like detection of feedback from my boyfriend, friends, family, boss - if they were happy with me, then I figured I was alright. Lastly, I sensed my place in the world through experiences of collision, friction and competition in unconscious relationships (think - Bumper Cars).</span></p><p><span>I know all about this because I was the quiet twin, passive in the extreme. I allowed my relationship with my extroverted sister to define me. <strong>For most of my life my &lsquo;inside-out&lsquo; orientation was so thorough, I didn&rsquo;t sense myself as &ldquo;Kimberly&rdquo; so much as I did &ldquo;not Kathryn&rdquo;.</strong></span></p><p><span><span>When this became obvious and painful enough, I sought out the practices that would produce the experience of &lsquo;right-side-out&rsquo;. </span><strong>Clear, powerful focus</strong><strong>and whole-hearted persistence brought me to an awareness of my innate beauty</strong><span>, and now here&rsquo;s what &ldquo;living right-side-out&rdquo; looks like.</span></span></p><p><span>First, my internal dialogue is laced with self-affirming beliefs created and validated from personal experience. Secondly, <strong>I assess my state of being by listening to my emotional, mental and physical indicators.</strong> Lastly, <strong>I sense my place in the world by being present, paying attention, and by consulting with my natural knowing, what I think of as my higher nature - my intrinsic beauty.</strong></span></p><p><span>Note: As I drank my protein shake on the back door step this morning a hummingbird flew to me - just two feet from my face - to say hello. Looked up the symbolism...</span></p><p><span>&ldquo;It&rsquo;s a symbol for accomplishing that which seems impossible...&rdquo; (tireless energy)</span></p><p><span>&ldquo;...a messenger of joy and love. It&rsquo;s associated with the Ghost Spirit of Native American tradition, which teaches a dance (Ghost Dance) that is intended to return the natural balance of the world.&rdquo;</span></p><p></p>",
+      "title": "Living Right Side Out",
+      "modified": "2014-03-19T18:59:34Z",
+      "slug": "living-right-side-out"
+    },
+    "pk": 9
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "room.jpg",
+      "created": "2012-08-12T08:53:00Z",
+      "tags": "remember",
+      "content": "<p><strong>\"What's it like to be a twin?\"</strong> I heard it all the time growing up and I always had the same response - \"I don't know. I've never been anything else.\" And it was true. Being a twin was so much a part of me, it was impossible for me to look at it objectively. As I've grown, I've nurtured a 'witness' stance, allowing me to see myself, and my life, from a gentle distance. Some of the things I've noticed during this process of <a href=\"http://en.wikipedia.org/wiki/Individuation\">individuation</a>have a lot to do with \"remembering our beauty\".</p><p><strong>My twin sister, Kath, and I were connected, and this sense of connection was very real to both of us.</strong> We often knew what the other was thinking, could finish each other's sentences, and couldn't stand to be disloyal to each other or see the other hurt. Ironically, we were born into <strong>a family that encouraged competition as the means of establishing one's position and value.</strong> There were seven children, the first six born within six years, and you can believe the competition for attention and identity was intense.</p><p>Along with that, Kathryn and I were subject to ongoing, personal scrutiny as people often approached us to evaluate our personalities and features in order to \"tell us apart\". <strong>The experience of being compared </strong>to her to determine who was \"smarter\" and who was \"prettier\" was etched into my psyche.</p><p>At some level, I realized that if I 'won' in these impromptu competitions it hurt Kath, since the only means she had to feel secure in her identity was to be 'right' <em>in comparison to </em>my 'wrong'. <strong>I learned that expressing my uniqueness was a threat to another, and rather than hurt Kathryn, I bowed out of the competition and became silent.</strong></p><p>For most of my life, I lived in the pain of denying my Truth. The process of 'remembering my beauty' has been the process of expanding the context of my awareness to be large enough to include both Kathryn and me in our unique beauty.</p><p><strong>I couldn't hurt Kath, but, at some point, I couldn't deny myself either, so expanding the context was the only option.</strong> This meant stepping back from the obvious, assuming a 'witness' stance, and going into my heart-of-hearts, over and over again, to bring Love, Love big enough for the both of us, to the foreground. <strong>It's meant <em>willfully</em> cultivating the intention \"Love wins\"</strong>.</p><p>The intent to find a place that included Kath and me together, and the consistent practice of attending to the Love I had for my sister, has expanded my awareness. Now I know,<strong><em>there is room enough for all of us to shine.</em></strong>A person doesn't need to judge themself \"better\" than another in order to experience themself as \"good\". We are <em>all</em> innately worthy and can experience \"Love that includes\" within the comfort of our own skin.</p><p>It's like <a href=\"http://www.goodreads.com/book/show/6900.Tuesdays_With_Morrie\">Morrie </a>said, \"Love wins. Love always wins.\"</p><p>Remember the beauty that you are....</p>",
+      "title": "Room Enough",
+      "modified": "2014-03-19T19:02:50Z",
+      "slug": "room-enough"
+    },
+    "pk": 10
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "flow.jpeg",
+      "created": "2012-08-19T08:53:00Z",
+      "tags": "create",
+      "content": "<p><strong>If it feels so good, why don't we do it more often?</strong></p><p>No, not that.</p><p>What I'm talking about is <em>flow</em>, the Alpha brainwave state.</p><p>You've probably heard the term, but may not know exactly what it is and how to get into it. According to <span><a href=\"http://www.amazon.com/Handbook-Positive-Psychology-C-Snyder/dp/0195135334\">The Handbook of Positive Psychology</a></span>, <em>flow</em> has the following characteristics:</p><ul><li>intense and focused concentration on what one is doing in the present moment</li><li>merging of action and awareness</li><li>loss of awareness of oneself as a social actor</li><li>a sense that one can control their actions within the situation</li><li>a sense that time has passed faster than normal</li><li>experience of the activity as intrinsically rewarding</li></ul><p>Sounds like a great place, and it is. So I ask again, why don't we go there more often?</p><p>Well, for one thing, getting into the state of flow means finding an \"intrinscally fragile\" balance. <strong>If the activity is too challenging, we become anxious, if the activity isn't challenging enough, we get bored. Flow is a state of \"optimal arousal\".</strong> (Hmm, there it is again)</p><p>And it doesn't come with just any challenging activity.<strong> It seems to be associated with activites we do <em>for pure enjoyment; </em>painting, chess, aethsetic experience, sports or writing. </strong>(I think I'd include <a href=\"http://www.pinterest.com/ardynrwyatt/\">Pinterest</a> on this list). When we are fully focused on a challenge we feel confident we can meet, and the activity is one we enjoy, we get in the <em>flow</em>. This is the state I'm in every time I write one of these posts. I'm in search of 'right expression', listening, and everything else falls aways.</p><p>I'm talking about it, actually I'm advocating for it, because flow is the state we're looking for when we want to be creative.It's no accident that the concept was first studied after <a href=\"http://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi\">Csikszentmihalyi </a>noticed that \"when work on a painting was going well, the artist persisted single-mindedly, disregarding hunger, fatigue and discomfort.\"It's the Alpha state.<strong> It's the place where inspiration and new ideas are born. That's where we want to be.</strong></p><p>Create options not being offered.</p>",
+      "title": "Flow",
+      "modified": "2014-03-31T20:29:55Z",
+      "slug": "flow"
+    },
+    "pk": 11
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "girl_and_fairy.gif",
+      "created": "2012-08-26T08:53:00Z",
+      "tags": "remember",
+      "content": "<p><strong>My Aunt Golda had a brown, leather purse</strong> - the same one for years. I remember it vividly, soft and wrinkled from high-quality cow hide and years of good use. It has a place in my memory because, each year when she came to visit us from her home in San Francisco, she'd sit down with me and begin digging in that purse.</p><p>You know the kind of digging I mean. It was packed tight as a cabbage roll with a bulging wallet, coin purse, hankies, nail scissors, receipts, lipstick, and infinite folds of mysterious scraps of paper. We were mining for one particular scrap of paper.</p><p>Without fail, and always to my utter amazement, she'd find it - the drawing I'd done for her the last time she'd come to visit.</p><p>In a <a href=\"/journal/2014/03/19/room-enough/\">previous post</a> I wrote about being a twin and going quiet. There aren't many places to go when you go quiet, so I went inward. I went inside, where imagination, reflection and creativity live. <a href=\"http://en.wikipedia.org/wiki/Carl_Jung\">Carl Jung</a> called it the \"collective unconscious\".<strong>I call it \"being invisible\", going to zero, the place where non-objects hang out.</strong> It was my default stance, really, my only option, and it became familiar territory.</p><p>I became an \"artist\" by age four - really, just an artist at heart. <strong>Because the ability to create something from that quiet place, something that came from the beautiful in me, <em>something that my Aunt Golda would keep with her in her purse all the time,</em>saved my soul.</strong> And what was once an unconscious, passive option, has now become an active choice - to access the dark, silence inside myself and create from that place.</p><p><a href=\"/journal/2014/03/18/flow/\">So I write about creativity</a>, celebrate it, advocate for it.</p><p>Don't be afraid.</p><p>Be invisible. Go to zero. Hang out in the place where there are no objects. Face the blank page and welcome the blank canvas. It just might save your soul.</p><p><strong>Go inside and create something beautiful.</strong></p><p>Golden<br />i am all that is possible<br />love's response to life's fears<br />all the good forgotten<br />is remembered in me<br />born of light<br />i am heaven's fresh gift</p>",
+      "title": "Aunt Golda's Purse",
+      "modified": "2014-03-29T01:42:48Z",
+      "slug": "create-something-beautiful"
+    },
+    "pk": 12
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "shutterstock_405737374.jpg",
+      "created": "2012-09-24T05:16:00Z",
+      "tags": "create",
+      "content": "<p>\"Google.\" My favorite verb.</p><p>I'm a <em>huge fan</em> of access to, and exchange of, large quantities of information, and I know I'm not alone. It's estimated that nearly 80% of baby boomers - nearly 60 million - are online and spend more time there than any other group. Women boomers over 55 are also the fastest growing \"friends\" on Facebook. We're the most technologically tuned-in of any demographic.</p><p>Intuitive search engines and social media have increased both the availability of information and our opportunities to connect and share online. The communal conversation has ballooned and the standard for assimilation is speeding up. If \"hashtag\" isn't part of your vocabulary, you're behind the curve.<strong> This expanded exposure could potentially improve your quality of life, but it could just as easily overwhelm you.</strong></p><p>The teacher <a href=\"http://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi\">Shirdi Sai Baba</a> is commonly credited with these simple prompts for self review when considering our words: \"Is it necessary? Is it true? Is it kind? Will it improve on the silence?\" What he has offered are filters with which to discern and judge what we dispense. <strong>Given the ever-enlarging conversation, I'm proposing we learn to apply similar filters to the information we are willing to take in.</strong></p><p><strong><a href=\"http://www.criticalthinking.org/pages/center-for-critical-thinking/401\">The Center for Critical Thinking and Moral Critique</a></strong> conducts advanced research on critical thinking and has established <a href=\"http://www.criticalthinking.org/pages/universal-intellectual-standards/527\"><strong>Universal Intellectual Standards</strong> </a>to guide learners. They list seven standards to be applied to our thought processes when we're concerned about the quality of our reasoning, but, for the purpose of choosing what information to assimilate, three standards seem applicable and pertinent.</p><ol><li><strong>Is it clear?</strong> (true) This is the entry criteria. If the information isn't clear, I can't decide if it's relevant or fair. I want it simplified when possible - I don't want to work harder than is absolutely necessary. There's a lot vying for my attention.</li><li><strong>Is it relevant?</strong> (necessary) This can depend on where I'm headed and what I want to accomplish. It will change according to my agenda at the time. It's my job to keep this criteria in the front of my mind as I scan information.</li><li><strong>Is it fair?</strong> (kind) It's human nature to present information according to our personal biases, but I prefer to read and watch material offered from a balanced and thoughtful perspective. As a consumer, I'd rather not have to sift through someone else's unfinished business.</li></ol><p>I guess I shouldn't be surprised that the standards that most appeal to me can easily be paired with three of Sai Baba's prompts, and I can whole-heartedly echo, \"Is it an improvement over silence?\" <strong>In a world of stimulation and distraction, silence might be the ultimate competition.</strong></p><p>There are any number of standards to choose from and which standards we adopt is a personal preference. And, just in case you're wondering, the three standards I apply to the information I take in are the same three I use when writing my posts. I hope it makes for enjoyable reading. :-)</p>",
+      "title": "Gatekeepers",
+      "modified": "2016-05-25T04:03:34Z",
+      "slug": "gatekeepers"
+    },
+    "pk": 13
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "press.jpg",
+      "created": "2012-09-30T08:53:00Z",
+      "tags": "create",
+      "content": "<p>I've got to tell you about my printer. No, not my HP, the women who are printing my business cards.</p><p>First, I'll tell you how I found them.</p><p>I knew what kind of card I wanted, but didn't know where to get it done. I had a sample business card I'd been given years before, that I took to a couple of nearby print shops, and one of them told me it was <a href=\"http://en.wikipedia.org/wiki/Letterpress_printing\">letterpress.</a> I came home and Googled \"letterpress Northern California\" and found <a href=\"http://www.full-circle-press.com\">Full Circle Press</a> in Grass Valley.</p><p>When the owner, Judith, returned my call, she told me a little about letterpress, which is a type of relief printing using an actual printing press. She let me know we'd be able to do the whole transaction, design and all, through email. <strong>I was grateful for the option of avoiding the hour-long drive to Grass Valley, but another part of me really wanted to see the process of how the cards were made. </strong>I asked Judith if I could visit their shop and bring my design ideas with me.</p><p>I <em>love </em>that part of me that wants to know how things are done, how things are<em> made</em>. <strong>The more time I spend with my computer, printer and smart phone, the more I appreciate the hands-on, the home made and the one-of-a-kind.</strong></p><p>I spent a couple of hours at their printing shop. They showed me the presses, samples of some of the work they've done and the process for translating my design from a digital computer file into a physical, touchable work of art. These ladies are true artisans. They know what they're doing, they love it, and they create a superior product.</p><p>It was a great connection.</p><p>Great ladies. Great day.</p><p>I love doing things from scratch.</p>",
+      "title": "From Scratch",
+      "modified": "2016-05-25T03:57:03Z",
+      "slug": "person-person"
+    },
+    "pk": 14
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "elvis_Presley_Biography.jpg",
+      "created": "2012-10-07T21:53:00Z",
+      "tags": "create",
+      "content": "<p><a href=\"http://www.youtube.com/watch?v=BuK5Q0S3wSQ\">Elvis had it.</a><span>Sure, it was sex, but it was more than that. Van Gogh had it and there&rsquo;s nothing sexy about haystacks and cypress trees. Mozart had it, and Einstein. I&rsquo;ve noticed it for a long time, ever since Elvis&rsquo; 1968 T.V. special - you know the one - he&rsquo;s in black leather.</span></p><p><span>I&rsquo;ve never tried to put it into words - that irresistible, intangible human quality that makes my soul reel. I call them &ldquo;originals&rdquo; and it&rsquo;s a very select group - Tina Turner, Michael Jackson, Marlon Brando. They&rsquo;ve got something the others don&rsquo;t.</span></p><p><span>My guess is they&rsquo;re willing, and able, to access a place in themselves that&rsquo;s not readily available to the rest of us. From that place, they deliver something - a performance, idea, piece of art - that feels untainted.</span><strong></strong><span><strong>It isn&rsquo;t just that their ideas and inspirations are original, it&rsquo;s that they carry the quality of having arrived from a place untouched by conditioning, and it touches an unconditioned place in me.</strong> I can feel it. They&rsquo;re not trying to please.</span></p><p><span>Content is everywhere. <strong>The easier it becomes to &ldquo;cut and paste&rdquo;, and the more acceptable it becomes to recycle information, the more valuable originality becomes. </strong>I want to come from that untouched place - if I can. <a href=\"/halos/\">The Halo</a> was one of my first efforts to create something that didn&rsquo;t exist before. I think we need more &ldquo;originals&rdquo;. </span><span>  </span></p>",
+      "title": "On Being An Original",
+      "modified": "2014-03-30T07:36:06Z",
+      "slug": "being-original"
+    },
+    "pk": 15
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "sandy_1.jpeg",
+      "created": "2012-11-05T03:27:00Z",
+      "tags": "remember",
+      "content": "<p>The familiar <a href=\"http://www.aahistory.com/prayer.html\">\"Serenity Prayer\"</a> tells us to \"...accept the things we cannot change\". 90 mph winds and a body slam to the eastern shoreline fall into this category. But, there's a second admonition in that prayer, \"...to change the things we can...\" Let's talk about what we might feel the urge to change in the face of a 13 ft. wall of ocean.</p><p><a href=\"http://www.huffingtonpost.com/50/\">The Huffington Post</a> asked readers about survival strategies and their plans for finding comfort during Hurricane Sandy's rampage. The list included stocking up on essentials, eating comfort foods (including homemade soup), snuggling pets, reading, not answering the phone, and adhering to established routines. Once safety was assured, coping tactics seemed to arrange themselves neatly around one core impulse - the instinct to draw in to ourselves - closer to home.</p><p><strong>When life is predictable and our equilibrium is not at stake, we can be careless.</strong> Self awareness and self monitoring loosen, and we tend to live our lives slightly beyond ourselves, in innocent and subtle preoccupation.</p><p>When the status quo is called into question we <a href=\"/journal/2013/04/11/the-big-picture/\">make adjustments</a>. We tend to focus more on the immediate, we pay closer attention and become more present. This isn't a panic response. <strong>This is deliberately tuning in, applying ourselves to the moment at hand.</strong></p><p>This perspective is scalable, accurate. It isn't characterized by big statements, lofty ideas and clever posturing. It's more closely akin to simple motives, obvious explanations and true words, a return to what is essential and intrinsically valuable.</p><p>Just like the storm-tracking radar that warned us of Sandy's potential well before she ever made landfall, those of us who've been-there-and-back a few times can exploit our experience and anticipate the life 'storms' that inevitably arise. That's one of the perks of having a few grey hairs - we don't have to wait until the windows are rattling and the waves are crashing before we make adjustments and <strong>live 'closer to home'.</strong></p>",
+      "title": "Close to Home",
+      "modified": "2014-03-15T01:00:03Z",
+      "slug": "close-home"
+    },
+    "pk": 16
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "turkey.jpeg",
+      "created": "2012-11-11T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>I'm not going to lie to you, the last year or two have been tough. As I've clarified my intentions and initiated my business plan, there have been some personal challenges arise within my family. (I don't comment on them because that would be a violation of their privacy).</p><p>It would be easy to get distracted by the negative influences that persistently demand my attention, but Thanksgiving is approaching, and <strong>I'm going to stubbornly focus on the things for which I'm truely grateful.</strong></p><p>First, I am reverently and deeply grateful to know that there is Love that lives in my heart. Maybe that sounds odd, but there are times when the atmosphere around me is so overwhelmingly negative, I'm not so sure.</p><p>I almost get lost in the onslaught, but I know from past experience that <strong>there is something other than the judgement and criticism being aimed at me. So, I remember those <a href=\"/journal/2014/03/16/remembering-love/\">Loving moments</a>.</strong> I go back to my journal, back to those private times when I knew no-one was watching, and read my own sincere words. I hold onto the truth, focus on my good intentions. \"I know what's in my heart\" is my mantra.</p><p><strong>I am so grateful for my memories of Love.</strong></p><p>Secondly, and closely related to the first, I'm grateful to those who have gone before me and have shared their challenges, insights and Love. I'm talking about masters, like Christ and Buddha, but Im also talking about the wise men and women whose words and books inspire and uplift me; Carl Jung, Mother Meera, Joseph Campbell, Clarissa Pinkola Estes, Neil Donald Walsh, Pema Chodron, John Kabot Zinn, Carolyn Myss, Eckhart Tolle, Gary Zukav, Martha Beck, Eben Alexander, too many more to mention.</p><p><strong>Where would we be without seekers and teachers, those willing to explore and experience new ways of being, leaving landmarks for others to follow? </strong>So many times, when I've felt alone and forgotten, the gracious words of these 'friends' have comforted and soothed my soul. Their courage has kept me company. I'm eternally grateful for their generosity.</p><p>Thank-you. Thank-you. Thank-you.</p><p>Note: I spoke to the manufacturer and they are willing to meet with me. We've scheduled a meeting for early next year, after the holidays. Very thankful for this too!</p>",
+      "title": "I am Grateful",
+      "modified": "2014-03-19T19:35:27Z",
+      "slug": "i-am-grateful"
+    },
+    "pk": 17
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Jesus.jpeg",
+      "created": "2012-12-09T08:53:00Z",
+      "tags": "remember",
+      "content": "<p><span>As Christmas is here, I've turned my attention toward thoughts on Christ and the Love that he taught.</span>I think I see a disconnect between what I believe were his intentions, and the way we've applied these teachings.<span>(May I keep an open heart, even while noticing what is not open-hearted.)</span></p><p><span><strong>The purpose of Christ&rsquo;s teachings was to show us how to return to an awareness of the Love that we are, and the Love that connects us,</strong> so that we can enjoy our creative, learning process here on earth. His teachings were meant to </span><em>enable</em><span>us toward that goal - to open our eyes to the Truth about ourselves.</span>Christ saw us through eyes of Love, not eyes that saw our imperfections and suffering.<strong>He did not see us as victims, but as sons and daughters of the Father - Divine Source.</strong><a href=\"http://www.tm.org/blog/enlightenment/kingdom-of-god-is-within-you/\">\"...the kingdom of God is within you.\" Luke 17:21</a></p><p><span><span>I think there's a misunderstanding about compassion. It seems that compassion has come to mean \"With an open heart, focus on, and identify with, the confusion and suffering of others.\" The way it was taught to me, if I didn't join the other in their suffering, I wasn't being compassionate. <strong>Christ's teaching to &ldquo;love one another&rdquo; was not an admonition to abandon our well-being for the sake of another, but a call to remember the truth about the Love we are. From that awareness of </strong></span><strong><em>powerful </em>Love, we are able to see clearly the needs <em>and the beauty</em>in the other, and respond in the most loving way.</strong></span></p><p>Many of those who espouse and preach Christianity use it as a tool to judge and control others. Christ's<span>words have been taught from pulpits raised above. This is the perspective created by systems assuming and misusing power - that they know better, and that we, the confused, suffering and imperfect, require their intervention to find our way. This is a lie. <strong>We already have the Love of which Christ spoke.</strong></span></p><p><span><span><strong>To know this Love, what's needed is for us to move beyond the beliefs that impede that knowing, including beliefs that cause our suffering, and those imposed by those in power.</strong> This is not easy - \"It is easier for a camel to pass through the eye of a needle.\" - but the expereince of</span><em>powerful</em><span>Love is available to each us.</span></span></p><p><strong><span>HUMILITY = accurate perception. Love is a very horizontal experience, no-one is above another.</span></strong><span>Knowing Love finds us in the correct relationship to Source. You cannot nuture the awareness of beauty and Love while </span><em>convinced</em><span> of another's imperfection, suffering, victimhood - basic 'wrongness'. You can only nurture the beauty in another from an awareness of their beauty - and your own.</span><strong><span> Address any immediate 'need' while,</span><em>at the same time,</em><span>remembering what's more True</span></strong><span>.</span></p><p><span>Christ not only showed us the way, he created a path, as did Buddha and the other masters. <strong>They created a stream of Truth that will, if we open our hearts to it, return us to the awareness of Beauty and Love in ourselves.</strong> Their</span><span>thoughts, words and actions are the reference points that, if chosen, will produce enlightenment, a perception originating from the perspective of Source.</span></p><p>Merry, Merry Christmas.</p><p></p><p></p><p></p><p></p><div><span><br /></span></div>",
+      "title": "Christ and Our Beauty",
+      "modified": "2014-03-19T19:25:50Z",
+      "slug": "christ-and-love"
+    },
+    "pk": 18
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "white rose.jpg",
+      "created": "2012-12-16T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>because there are no words</p><p>there are no thoughts that comfort</p><p>so I seek out Love</p><p>my only refuge</p><p>thoughts and words can't touch it</p><p>they seem so small next to this</p><p>the pain is big</p><p>only Love is bigger</p><p>My prayers go to the families in Newton.</p>",
+      "title": "No Words",
+      "modified": "2015-06-25T23:21:45Z",
+      "slug": "no-words"
+    },
+    "pk": 19
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Warming_Up_for_the_Nights_Howl_Gray_Wolf-(1024x768).jpg",
+      "created": "2012-12-23T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>It's at times like this that I hold still. I'm stunned, afraid of my own reaction, so I quiet myself.</p><p>At times like this, when all that's wrong with 'the world' is shoved so forcefully into my awareness, I withhold - I don't touch down, don't land on 'my take'. I don't have that wisdom, don't have the words. It's just <em>too much.</em></p><p><strong>If I'm patient, something will come to me - ususally in the form of wisdom from a source that understands more than I do.</strong> This time it came in the words of Clarissa Pinkola Estes in her letter <a href=\"http://www.wanttoknow.info/youweremadeforthis\">\"You Were Made for This\"</a>:</p><p>\"My friends, do not lose heart. We were made for these times. I have heard from so many recently who are deeply and properly bewildered. They are concerned about the state of affairs in our world now. Ours is a time of almost daily astonishment and often righteous rage over the latest degradation of what matters most to civilized, visionary people...</p><p>Ours is not the task of fixing the entire world at once, but of stretching out to <strong>mend the part of the world that is within our reach...</strong></p><p>What is needed for dramatic change is <strong>an accumulation of acts</strong>, adding, adding to, adding more, continuing...</p><p>One of the most calming and powerful actions you can do to intervene in a stormy world is to <strong>stand up and show your soul. </strong>To display the lantern of soul in shadowy times like these - to be fierce and to show mercy toward others; both are acts of immense bravery and greatest necessity...</p><p><strong>When a great ship is in harbor and moored, it is safe, there can be no doubt. But that is not what great ships are made of...\"</strong></p><p>Am I one of the \"great ships\" she talks about in the letter? I<span> </span>can't say. But I do see what's in front of me, the confusion and the shadow, and I want to respond to it. <strong>I want to call up something better.</strong> And, asI read the letter, I feel the Truth in her words and recommit to \"showing my soul\". Thank-you, Clarissa, for being a gift to me in this moment.</p>",
+      "title": "Women of the Wolves",
+      "modified": "2015-06-25T23:21:27Z",
+      "slug": "women-wolves"
+    },
+    "pk": 20
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "both.jpg",
+      "created": "2013-01-06T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>I was reading in my journal the other day, imagining the new life I'm creating, when I came across this entry from a few years ago. It's a good reminder of where I've been and where I'm going.</p><p>1/16/09</p><p>A few days ago I was looking in the mirror and I noticed, as though for the first time, that my nose is bigger than I ever thought, and my face is wider than I remembered. It was as though I were seeing myself clearly for the first time. I wasn't being critical of my face - I could simply see it. It seemed inaccurate to me. I'd always thought I looked more like Kath. We started out exactly the same...how had I become so different than Kath?</p><p>In a world of up/down, left/right, good/bad, I had taken on \"ugly\" to Kathryn's \"pretty\". <strong>I accepted the verdict decided by the peanut gallery. </strong>In a <a href=\"/journal/2014/03/17/room-enough/\">competitive world</a>, someone had to be \"wrong\". <strong>I allowed her to feel like \"more\" by being \"less\" and deemed it a gift of love, something I could feel good about.</strong></p><p><strong>I no longer offer my inferiority as the gift I have to give.</strong></p><p>My beach</p><p>my beautiful expanse</p><p>sharing it with you</p><p>i know myself anew</p><p>let me bring you here</p><p>again and again</p><p>just you and me</p><p>and the Love between us</p><p><strong>\"I dream of a world where there is room enough for both of us to be beautiful.\"</strong></p>",
+      "title": "Both",
+      "modified": "2015-06-25T23:20:47Z",
+      "slug": "both"
+    },
+    "pk": 21
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "garbage2.jpg",
+      "created": "2013-01-20T08:53:00Z",
+      "tags": "remember",
+      "content": "<p><span>From my journal. Rambling but honest...</span></p><p><span>1/19/13</span></p><p><span>I wanted to believe I was good.<strong>I wanted to be able to point to something positive in my life and say &ldquo;See, I <em>am </em>good.&rdquo; - as though physical evidence would prove it true.</strong></span></p><p><span>I didn&rsquo;t want to face all of it yet, to see the fullness of the truth was too sad, too much. So <strong>I created more external reference points, hooks on which to hang meaning</strong>- a morning cup of tea, responses to bank mail and the DMV, the hope that the things I&rsquo;m learning will someday benefit another - flimsy thoughts to prop up a &lsquo;sense of self&rsquo;.</span></p><p><span>Without them -<strong> if I were to let them go</strong> - strip them of the power I originally invested in them -<strong>I&rsquo;d have to face the truth....that there is no-one in my life who will save me. </strong>There is no Mother with eyes full of adoration, no Father guiding and protecting, no sister who remembers and understands, no daughter who has forgiven. All these were hoped for in my imagination.....</span></p><p><span>...figments that would shield me from the darkest, saddest corner of my reality....<strong>I am alone</strong>.</span></p><p><span>There it is.</span></p><p><span>And no trip to Costco or the bead store is going to change it. Stop fiddling. Let yourself cry. It is sad.</span></p><p><span>I watch my thoughts....</span></p><p><span>&ldquo;The sore on my left shoulder is almost healed...&rdquo;</span></p><p><span>&ldquo;I&rsquo;ll return Trina&rsquo;s call today.&rdquo;</span></p><p><span>&ldquo;Do I have flour to make bread?&rdquo;</span></p><p><span>All of them so I could feel O.K. about being here. Small reasons to be encouraged. <strong>I told myself small stories to keep my heart from breaking.</strong></span></p><p><span>I sit quietly and look at this, at the small stories and at the dark truth living just beneath them.</span><span>We look at it together, me and my Self.</span></p><p><span>What keeps me hooked? I want recompense. I want it to feel fair. <strong>I want my hopes, my dreams, my efforts to produce just compensation for the pain I&rsquo;ve suffered. Letting go feels like letting the bad guys win.</strong> I want to &lsquo;win&rsquo;. So I make up hopeful, small stories.</span></p><p><span>There&rsquo;s nothing there, Kim. Look at it. It&rsquo;s O.K. <strong>There is </strong></span><strong><em>nothing out there</em></strong><span><strong> to make your life defendable.</strong> You can let go of that whole idea.</span></p><p><span>How do I know that the small stories are to justify myself and not small inspirations? Because of how they feel - grabby, needy thoughts with the outcomes already attached - the happy ending anticipated. Backwash of my neediness.</span></p><p><span>What will happen if I let them go? It feels like they&rsquo;re the only thing keeping me here.</span></p><p><span>Giving up the power I derive from the \"sad truth&rdquo;...</span></p><p><span>No more small stories.</span></p><p><strong><span>Only one <a href=\"/journal/2014/03/18/reference-points/\">reference point</a> left, when the others are released.</span></strong></p><p><span>After the sadness...</span></p><p><span>There is no &ldquo;after the sadness&rdquo;.</span></p><p><strong><span>Open your heart and accept the sadness in. Accept all of it...knowing the Love is already immensely bigger.</span></strong></p><p><strong><span>Let go of your identification with the sadness. Allow it to be as insignificant as it actually is in relation to the Love.</span></strong></p>",
+      "title": "Making Space",
+      "modified": "2014-03-19T19:30:59Z",
+      "slug": "making-room"
+    },
+    "pk": 22
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "shutterstock_69214975.jpg",
+      "created": "2013-01-27T18:37:00Z",
+      "tags": "remember",
+      "content": "<p><span><span>It seems we need a crisis, global or personal, to remind us of our spiritual roots.</span></span></p><p><span>For a historic perspective on this apparently universal phenonmenon, I rely on Karen Armstrong. In her book, <span><a href=\"http://www.amazon.com/The-Great-Transformation-Beginning-Traditions/dp/0385721242\">The Great Transformation</a></span>, she brilliantly details the impetus' for the world's four major religious traditions and does it in a way we can all relate to. K</span><span>aren refers to the Axil Age, a pivotal time beginning in the ninth century BCE when sage teachings first took hold in primary, developed cultures. These sages are familiar to all of us - Isaiah, Confucius, Buddha, Socrates, and many more. With the passion and skill of an artisan, Karen reveals the players, the forces, the decisions and the beliefs that fueled the birth and blossoming of spiritual thought.</span></p><p><span>What she found might surprise you - <strong>spiritual focus and insight were provoked by the destructive forces of their day.</strong> &ldquo;All Axil Age faiths began in principled and visceral recoil from the unprecedented violence of their time. Despite some differences in emphasis, there was a remarkable consensus in their call for an abandonment of selfishness and a spirituality of compassion.&rdquo;</span></p><p><span>I find comfort in this broad, panoramic view. This isn&rsquo;t the first go-around. Mankind has lost perspective before - many times, apparently - and we have, with the help of poets, and wise <a href=\"http://pinterest.com/kimberlyawyatt/the-men-and-their-words/\" target=\"_blank\">men</a> and <a href=\"http://pinterest.com/kimberlyawyatt/the-women-and-their-words/\" target=\"_blank\">women</a>, found our way back to higher ground. It seems as though we need to fall apart on a semi-regular basis in order to remind ourselves about what's essential and what's optional. I suppose</span><span>this falling apart, as painful as it may be, is a good thing.</span><span>It's an opportunity to let go of old assumptions that no longer work, and seek out deeper, fundamental truths.</span></p>",
+      "title": "The Big Picture",
+      "modified": "2014-03-15T23:35:11Z",
+      "slug": "the-big-picture"
+    },
+    "pk": 23
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "shutterstock_24065944.jpg",
+      "created": "2013-02-04T02:01:00Z",
+      "tags": "remember",
+      "content": "<p><span>You&rsquo;re late for your flight and a power-crazed TSA attendant pulls you aside for a lipgloss-nail-clipper-keychain baggage check. Are you more likely to verbally castrate him, or get intimidated and withdraw? Before you answer, read the following. Your answer could be &ldquo;none of the above&rdquo;.</span></p><p><span>The stress response standard for the last 70 years has been &ldquo;fight-or-flight&rdquo;. But health psychologist <a href=\"http://en.wikipedia.org/wiki/Shelley_E._Taylor\">Shelly Taylor PhD</a>. and five of her colleagues revisited research results after Taylor realized this &ldquo;fight-or-flight&rdquo; model didn&rsquo;t fit any of the findings she&rsquo;d seen in her 30 years of practice. Looking closer at the studies, they found the stress responses were identified through research based heavily on studies of male animals.</span></p><p><span>In an article for <a href=\"http://www.psychologytoday.com/articles/200009/tend-and-befriend\">Psychology Today</a>, Taylor and her colleagues propose that women&rsquo;s coping mechanisms have evolved uniquely, within the context of the role of primary caregiver. They believe, when in danger, a woman will first consider the comfort and well-being of her child and tend to its needs.<strong> At a chemical level, the bonding hormone oxytocin reduces her fearfulness and lowers the typical fight-or-flight response.</strong></span><span>Another noted effect credited to oxytocin is the enhancement of social contact, which explains the second stress response more often shown by women - to connect with others, particularly women.</span><span>Move over &ldquo;fight-or-flight&rdquo; and make room for <a href=\"/journal/2013/04/06/love-hormone/\">&ldquo;tend-and-befriend&rdquo;</a>.</span></p><p><span>As a former stressed-out single mother raising two daughters I can attest to this model. My girls will back me on this - my default stress responses were to clean and organize the house and/or call my sister and trade war stories. I have zero memories of a &lsquo;fight&rsquo; response and if I &lsquo;flew&rsquo;, it was to the safety of my home, where I started neatening.</span><span>Tending and befriending is part of my chemical make-up.</span></p><p><span>I'm happy to say that I've learned to deal differently with stress. When I get wound up these days, a</span><span>long with caring for others, I use my oxytocin to</span><span>tend and befriend myself. There&rsquo;s a lot I could say about this, so maybe I'll write about it <a href=\"/journal/2013/04/06/love-hormone/\">in another post</a>.</span></p><p><span>Something to note: Taylor and the others are careful to say they aren&rsquo;t trying to assign stress responses to either gender. All of us can have all of them. Good. It's nice to know we have options. It helps keep the stress down...</span></p>",
+      "title": "Tend and Befriend",
+      "modified": "2013-04-16T19:50:51Z",
+      "slug": "make-room-tend-and-befriend"
+    },
+    "pk": 24
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "heart.gif",
+      "created": "2013-02-10T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>Sure, for some of us Valentines Day is a reminder that we don't have a special someone in our life.</p><p>Love anyway.</p><p><span>when sadness opens wide the dark<br /></span><span>pray love into it<br /></span><span>when emptiness pierces your heart<br /></span><span>pray love into it</span></p><p><span>when aloneness is all there is<br /></span><span>pray love into it<br /></span><span>pray love into it<br /></span><strong><span>pray love into it all</span></strong></p><p><span>every forgotten moment<br /></span><span>every lost hope<br /></span><span>every broken dream<br /></span><strong><span>pray love into it all</span></strong></p><p><span>Big Love and hugs!</span></p>",
+      "title": "Pray Love ",
+      "modified": "2014-03-29T01:45:57Z",
+      "slug": "pray-love-it"
+    },
+    "pk": 25
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "massage-bodyhand-01.jpg",
+      "created": "2013-02-18T00:20:00Z",
+      "tags": "remember",
+      "content": "<p>Your smoke alarm goes off in the middle of the night. Adrenaline is pumped into your system. Your amygdala, the area in your brain that processes fear, revs up. At the same time, the hormone oxytocin might also be released, regulating your amygdala's activity. The likelyhood of this hormonal intervention seems to depend a lot on <a href=\"/journal/2013/04/08/make-room-tend-and-befriend/\">whether you're female</a>.</p><p><a href=\"http://www.psychologytoday.com/articles/200009/tend-and-befriend\">Some researchers</a> believe response-suppressing oxytocin is produced in women because they are biologically invested in their children's survival, but <strong>it's been dubbed \"the love hormone\" because it's also produced during a number of other behaviors where there's a potential for bonding. </strong>Oxytocin is released in large amounts in women during childbirth and breastfeeding. It's also produced in both men and women during sex, evoking feelings of trust, contentment and safety with their mate.</p><p>I had my own unique way of discovering oxytocin. After <a href=\"/journal/2013/04/11/it-changed-everything/\">Al</a> passed away I craved comfort, but didn't have anyone to turn to. Listening to my body, I started spending large amounts of time outside, letting the sun warm me. Then I started visiting a jacuzzi at least three times a week, and if I couldn't get to one, I'd soak in a hot bath. I did 'hot' yoga and enrolled in a class to become a massage therapist, giving and receiving at least 4 massages a week. Fortunately for me, my daughters are huggers, so, even though they weren't living at home, I could look forward to hugs and physical contact when they visited.</p><p>I guess I wasn't surprised when I ran across the research about <a href=\"http://www.bbc.co.uk/science/hottopics/love/\">\"the love hormone\"</a>. According to <a href=\"http://www.raysahelian.com/oxytocin.html\">Dr. Ray Sahelian, M.D.</a>, oxytocin can be released by a variety of sensory stimuli, including warmth and touch. <a href=\"/journal/2013/04/11/my-imperfect-body/\">My body must have known that</a>. It's great when science confirms my experience, and hot tea, hot baths, touch, and soft blankets are now an integral part of my daily life.</p>",
+      "title": "The Love Hormone",
+      "modified": "2014-03-15T23:31:48Z",
+      "slug": "love-hormone"
+    },
+    "pk": 26
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Bo.jpg",
+      "created": "2013-02-24T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>I woke up a few mornings ago and realized \"I need someone or something in my life to love.\" I'm very focused on creating this business - don't have the spare attention I think a relationship deserves - so I'm not ready to date seriously, but <strong>I need to give Love. Period.</strong></p><p>So I jumped online, Ebay classifieds to be specific, and did a search for puppies. I've never had my own dog, but I'd toyed with the idea of getting one on-and-off, so I had some notion of what type of dog I wanted - small, so it could travel easily with me, bred for companionship, so it will care if I'm around (cats don't seem to notice!) and non-shedding, hypoallergenic.</p><p>A search for \"puppies\" in my area brought up just a few, with pictures. There was only one that caught my eye, a 10 week old, black and white, Maltese/Pomeranian mix. I called the number immediately and set up a time to meet the breeder. Next day I drove the hour and a half north to meet them.</p><p>I saw her face as they drove into the parking lot. She was peeking over the shoulder of the woman in the passenger seat, and I knew immediately she was for me - curious, intelligent, adorable. She made the drive home with her little head resting on my thigh.</p><p>I named her Bo. She hates to be alone at any time, but especially at night. I don't sleep well any more. She pees everywhere and barks incessantly if she's separated from me in any way - even by a small security fence she can see through.</p><p><strong>No-one said Love was easy.</strong></p><p>Note: I've since done the research and found that Maltese is one of the oldest breeds, bred by the Greeks as companion dogs. They never left their owners, 'traveling' in the sleeves of their robes. It's all clear to me now....</p>",
+      "title": "Someone to Love",
+      "modified": "2014-03-18T06:30:42Z",
+      "slug": "someone-love"
+    },
+    "pk": 27
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "easter-wallpaper-20.jpg",
+      "created": "2013-03-03T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>We have all had something die.</p><p>Some of us have suffered the death of a loved one, some of us the death of a pet. Nearly all of us have experienced the 'death' of a long-held belief, relationship or dream. We know the pain of loss.</p><p>I'm sure that's why Easter is such a popular time. It's the designated season for celebrating resurrection and rebirth, the belief that what was lost in death can be restored - not only restored, but reborn to a new and more glorious state.</p><p>I need this day.<strong> I need a tangible reminder of this life-death-life cycle and the symbolic traditions that support the idea of a larger, spiritual reality.</strong></p><p>Easter reminds us there's a world beyond this physical day-to-day, one step removed from our rational understanding, what Carl Jung called <a href=\"http://en.wikipedia.org/wiki/Collective_unconscious\">\"the collective unconscious\"</a>, what shamans call the<a href=\"http://www.spiritual-healing-artwork-4u.com/spiritual-shamanism.html\">\"underworld\"</a>, and what Christ refered to as <a href=\"http://www.tm.org/blog/enlightenment/kingdom-of-god-is-within-you/\">\"the kingdom of heaven\"</a>. On specially designated days - Easter, Christmas, Hanukkah, Eid Al-Adha- we acknowledge this mystical realm. We approach the threshold between worlds and attempt to part the veil in order to glimpse the majesty beyond. We do this through ritual, prayer, art, myth, symbolism - and through metaphor. </p><p>The life, death and resurrection of Christ is a metaphor I keep close to my heart. Of all the mysteries, the necessity of death seems to me the most mysterious.<strong> The story of Christ's life answers a deep forgetting and reminds me, \"That which is True can never really die.\" and, \"Let the death of 'what was' be rich, fertile soil for 'what is yet to be'.</strong></p><p>And, what about 'what is yet to be'? The promise of the Christ metaphor is this - if we allow ourselves to 'die' regarding the things of the physical world, we will be 'reborn' to an understanding of the Truth. We will awaken to the Beauty within us.</p><p>This is my prayer this Easter season - may I live this promise. </p>",
+      "title": "Easter",
+      "modified": "2015-06-25T23:19:43Z",
+      "slug": "easter"
+    },
+    "pk": 28
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "My imperfect body_1.jpg",
+      "created": "2013-04-07T18:53:00Z",
+      "tags": "remember",
+      "content": "<p><span>After <a href=\"/journal/2013/04/08/remembering-love/\">Al died</a>I desperately needed to find a way to bring my spiritual experiences closer to my physical reality. I began studying various spiritual traditions and practices, but found that even the most well-intended of them lacked the full, original, unadulterated insight that I needed. I attributed this to the natural devolution of Truth as it's translated from one generation to the next. The one answer they seemed unable to provided was the one answer I </span><em><span>had</span></em><span>to find - <strong>What is the relationship between my imperfect, physical body and my perfect, spiritual nature? </strong></span></p><p><span>During a visit to </span><em>Mount Madonna</em><span> (</span><a href=\"http://www.mountmadonna.org\">http://www.mountmadonna.org</a><span>/) in the Santa Cruz mountains, I got my first clue. Hindu teachings about yoga and our chakra systems speak to the inherent union between our physical bodies and our energy bodies</span><span>.</span></p><p><span>Since then I&rsquo;ve deepened my search and my study, and what has evolved is a personal, intuitive practice of &lsquo;physical meditation&rsquo; that includes dance, aerobics, yoga, stretching and stillness. As I&rsquo;ve deepened these practices, I&rsquo;ve noticed inherent &lsquo;spiritual&rsquo; benefits.</span></p><p><span>1- <strong>It brings me </strong></span><strong><em>into </em></strong><span><strong>my body</strong>, into my current moment, my physical experience. Muscles, breathing, movement, sweat. Good stuff.</span></p><p><span>2- <strong>It requires a sustained discipline of attention on my inner world</strong>. Balance, intention, stretching, strength of will and determination.</span></p><p><span>3- <strong>It provides a physical metaphor for my spiritual states.</strong> When I dance, I&rsquo;m expressing my soul&rsquo;s joy. When I&rsquo;m doing yoga poses - the camel pose, child&rsquo;s pose or mountain pose - I&rsquo;m physically embodying the emotional states of open-heartedness, humility and strength. When I work out with a physio ball, I&rsquo;m acting out the experience of balance.</span></p><p><span>4- <strong>It teaches me to become aware of my energy and how I use it.</strong> Do I have enough? If not, why? Better sleep? Better nutrition? Better company? The energy that I </span><em>do</em><span> have, where is it going? When doing the Downward Facing Dog yoga pose, I&rsquo;m focused on my palms pressing into the mat, my heels touching down behind, and my tail lifting to the sky. I&rsquo;m paying attention. I&rsquo;m directing my energy. I&rsquo;m listening to my self in a whole new way.</span></p><p><span>5 - <strong>Most importantly, what I&rsquo;ve learned through &lsquo;physical meditation&rsquo; is that my body is a gift</strong>, a vehicle to be celebrated, for it gives me <a href=\"/journal/2013/04/06/first-entry/\">the opportunity to experience and express</a> the truth of who I am.</span></p><p><span>I</span><span> love and appreciate my body, and as I love it, so do I love my self. I invite you to develop your own practice of &lsquo;physical meditation&rsquo;.</span></p>",
+      "title": "My Imperfect Body",
+      "modified": "2014-03-18T21:15:09Z",
+      "slug": "my-imperfect-body"
+    },
+    "pk": 29
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Hannah.jpg",
+      "created": "2013-05-05T08:53:00Z",
+      "tags": "remember",
+      "content": "<p><span>While writing <a href=\"/real-life/\">my book</a>, I researched my personal history and discovered that in 1834 my great-great-great-great grandmother, Hannah Libby Knight, was one of the first converts to the Mormon church through their missionary efforts. Her conversion is part of Mormon lore, since it was facilitated by the miracle of her being healed while on her death bed. Some part of me knows that I have lived the inheritance of her decisions that day. A few months ago I let my mind wander back to that pivotal moment.</span></p><p><span>Dear Hannah, my mother,</span></p><p><span>How amazing it must have been to receive love and blessings at the moment of your greatest need. How sweet to your soul to know that you were not forgotten</span><span>, especially at a time when it seemed your own resources were not enough. And the two young men, so sincere, believing that they had a unique connection to divine power.</span></p><p><span>Of course, you gave them this - your believing heart.</span></p><p><span><span>But how natural</span><span>to see and</span>acknowledged the power and goodness in these others, because it was so easy to see. <strong>Much more difficult, in its subtlety, to see and sense the good within yourself.</strong></span></p><p><strong><span>You were the beauty all along.</span></strong></p><p><strong>May my</strong><span><strong>mothers. Hannah, Sarah, Martha, Lona Lorraine, Neola and Lona, know that Divine Beauty lives within each of them. And may gentleness and forgiveness shine on each and every moment they forgot this truth.May the power they gave to others, in the name of 'God', be returned, and the</strong></span><strong><span>sure knowledge and peace of abiding Love</span><span>be made obvious in all my mothers, and in me.</span></strong></p><p>Thank-you, Hannah, for your believing heart.</p><p>Your daughter</p><div><span><br /></span></div>",
+      "title": "My Mothers",
+      "modified": "2014-03-19T19:32:54Z",
+      "slug": "my-mothers"
+    },
+    "pk": 30
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Me and Emrie.jpg",
+      "created": "2013-05-12T11:53:00Z",
+      "tags": "remember",
+      "content": "<p>From my journal June 2012...</p><p><span>\"Last night</span><span>I began meditating a little earlier so I wouldn&rsquo;t be so tired and fall asleep. Was thinking about Erin, about my girls when they were babies. I was so young - hadn&rsquo;t felt ready to be a mother - had not felt mothered myself.</span></p><p><span>I'd been reading <a href=\"http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537\">Steve Job's biography</a> and thought how he&rsquo;d been abandoned by his birth mother, hadn't been wanted. Remembered how I'd felt unwanted and unloved. It is a theme - many of us feeling the absence of our mothers.</span></p><p><span>I began meditating on my loving, mother feelings, remembering Erin as a newborn. I imagined her small again and that I was holding her in my arms.</span></p><p><span>I wanted to go back, back to the times when the men in my life had put me down, had told my girls I wasn&rsquo;t loving. I wanted to go back and say &ldquo;I love my daughters. The error you see in me is the error you won't see as your own. Do </span><em>not</em><span> bring it here and hurt my child. I will protect them from you.&rdquo; I couldn&rsquo;t do that then, but I could do it now - I have that power, that clarity.</span></p><p><span>So I went back in my heart, to that time, and I held my baby close and felt the sureness of my Mother Love. I meditated on my love for my daughters, let the Mother Love take me.</span><span>Went to bed and had a dream...</span></p><p><span>I'm driving down a residential street in a old car. I suddenly swerve to the right to avoid hitting a woman lying in the street, wounded. I stop and jump out of the car and quickly go to her, cover her with my coat because she is naked. I think to get the denim quilt out of my car, but it isn&rsquo;t there, it&rsquo;s in the other car.</span></p><p><span>I take the woman home, to one of the homes on the street. In her room is her baby. The baby has been hurt by the woman, by the things she didn&rsquo;t know. The baby is a newborn, but she is able to talk. She is saying that she knew, remembers the world before her birth. She knows she came with a purpose, even though she has been hurt. It is part of the plan.</span></p><p><span>I want to heal the baby. I pick her up and hold her little, naked body to my heart. I hope that the skin-to-skin comfort will heal the baby. I lie down on the bed and a Father Spirit covers us with a soft, quilted comforter.</span></p><p><span>I&rsquo;m lying on the bed and look up. I can see an angel above us, near the ceiling. The angel calls to me and I leave my body to join the angel. It feels so sweet to go to the angel. Just as I get there, someone, a man, comes into the room and my attention is brought back. I return to the bed.\"</span></p><p><em>\"While some who write in psychology today tout the leaving of the entire mother matrix as though it were a coup....in truth, the construct and concept of the wild mother can never and should never be abandoned. For if it is, a woman abandons her own deep nature, the one with all the knowing in it, all the bags of seeds, all the thorn needles for mending, all the medicines for work and rest and love and hope.\"</em> <a href=\"http://www.clarissapinkolaestes.com/index.htm\">Clarissa Pinkola Estes, PhD</a></p>",
+      "title": "Mother Love",
+      "modified": "2014-04-02T21:58:37Z",
+      "slug": "mother-love"
+    },
+    "pk": 31
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Lona.jpg",
+      "created": "2013-05-19T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>From the book of poems I gave my mother for Christmas 2004</p><p>One moment with my mother<br />stretching back through the years<br />to touch me in my tenderness<br />to know me for the first time</p><p><strong>One moment together<br /></strong>her eyes so willing to see me<br />so willing to see herself<br />through corrective lenses - bifocal</p><p>One moment with my mother<br />perhaps one moment more<br />as we each seek forgiveness <br />in each other.</p>",
+      "title": "A Poem for Mother",
+      "modified": "2015-06-25T23:13:23Z",
+      "slug": "poem-mother"
+    },
+    "pk": 32
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "hclinton.jpg",
+      "created": "2013-06-09T08:53:00Z",
+      "tags": "create",
+      "content": "<p>My friend John once asked me, &ldquo;Do you think some people are born to lead? And do you think people, by nature, are drawn to follow?&rdquo; John was a senior fellow at an Ivy League school and President/CEO of his own international bioscience company. He&rsquo;d answered his own questions about his potential as a leader, but wanted to know my thoughts on the subject.</p><p>My response was part instinct, part hard-earned wisdom from my time directing a nonprofit, managing a large number of employees. &ldquo;A natural leader addresses something that seems obvious to them that isn&rsquo;t obvious to others. It&rsquo;s an organic process of recognizing a potential and inspiring people toward that improved vision. And, yes, some people, perhaps most people, need a leader. But there are also those who have figured out enough that they need minimal guidance. And then there are those who have their life so together that a leader would just get in their way.<strong> A true leader will know when they are necessary and when they are not.</strong>&rdquo;</p><p>With her book <em><a href=\"http://www.amazon.com/Lean-In-Women-Work-Will/dp/0385349947\">Lean In: Women, Work and the Will to Lead</a></em>, Sheryl Sandberg has prompted a discussion about why there aren&rsquo;t more women in corporate and political leadership roles. As CEO of Facebook she&rsquo;s in the ideal position to start the dialogue. She proposes that women, particularly young women anticipating careers in a corporate setting, need to look within themselves to identify and overcome internal obstacles that keep them from aspiring to the top levels:</p><p>&ldquo;We hold ourselves back in ways both big and small by lacking self confidence, by not raising our hands, and by pulling back when we should be leaning in. My argument is that getting rid of these internal barriers is critical to gaining power.&rdquo;</p><p>The dialogue continued last week with Arianna Huffington&rsquo;s conference, <a href=\"http://www.huffingtonpost.com/news/third-metric\">The Third Metric: Redefining Success Beyond Money and Power</a>. Arianna highlights what has become obvious to so many - if a woman aspires to lead in the current corporate climate it will come at a high cost. For maximum effectiveness, she recommends we all &ldquo;lean back&rdquo; (like a cat ready jump!) before leaning in:</p><p>&ldquo;This is a great moment for all of us - women and men - to acknowledge that the current male-dominated model of success isn&rsquo;t working for women, and it&rsquo;s not working for men either. The world needs women to redefine success beyond money and power.\"</p><p>There is such a thing as natural leaders, like Sheryl and Arianna - smart, successful women using their advantaged perspectives to inspire us. And I believe there are many wise women who have yet to recognize this same ability within themselves, not only because they lack confidence or adequate sleep, but because they are limited to environments entrenched in masculine definitions. <strong>We need women to imagine options not currently being offered. What visions might we women lead toward if we were to disconnect from the masculine model, return to our bodies, become mindful, and imagine a life for ourselves and our world that&rsquo;s an expression of our highest conscience?</strong></p><p>I can&rsquo;t help but mention one more observation that I&rsquo;ll write about more in another post. We refer to two environments, corporate and political, as the contexts within which leaders will be formed. I&rsquo;m noticing a third. <strong>Grass roots movements and crowd-driven phenomenon are now the children of the online world</strong> (think- TED, Kickstart, Feminie Power Global Community and Meetup.com). This is where future leaders will find a third venue.</p><p>It&rsquo;s a great time to be a woman with a vision. </p>",
+      "title": "Women Leaders",
+      "modified": "2015-06-25T20:58:17Z",
+      "slug": "leadership"
+    },
+    "pk": 33
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "blind spots.png",
+      "created": "2013-08-04T08:53:00Z",
+      "tags": "create",
+      "content": "<p>Wow. I didn't see that coming.</p><p>I've just been meeting with the property management company that's been taking care of a duplex I purchased several years ago. There was a fire in one of the units some months back and there seemed to be a misunderstanding about what needed to be done and who was going to do it.</p><p>All this time I thought we were on the same page. I assumed they understood their responsibility to me since we had a contractual agreement, and that they'd honor it. These were folks I trusted because I've known them for a long time and I thought we had a rapport, an unspoken understanding.</p><p><strong>That's the thing about assumptions - you don't know you're making one until it's exposed by a turn of events - and often it's a rude and uncomfortable awakening.</strong></p><p>It's arrogant of me to think that other people are going to do things the way I would if I were in their shoes. <strong>People are<em>always</em>going to do things differently than I am, and it's my responsibility to inform myself about their perspective</strong> - keep asking questions until I understand where they are coming from.</p><p>What could I have done to avoid this?</p><p>I could have been clear and specific about my expectations and communicated them to the property managers from the start. <strong>If I didn't <em>know</em> what my expectations were I could have informed myself by doing research and asking other people their experiences - then, communicated them clearly.</strong></p><p>I am <em>always </em>responsible.</p><p>Now I'm in a tough spot. The property is so damaged I can't rent it and I can't sell it. The insurance won't cover the cost of bringing it up to county standards, and the property manager won't be doing anything to help out.</p><p>I'll need to do something to address this, quickly. It could be my posts are scarce until I take care of this.</p><p>Blessings...</p>",
+      "title": "Assumptions",
+      "modified": "2015-06-25T23:11:35Z",
+      "slug": "assumptions"
+    },
+    "pk": 34
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Waiting-for-the-train-in-the-rain.jpg",
+      "created": "2013-09-01T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>i left part of me behind</p><p>the best part<br />is waiting at the station<br />dripping</p><p>i jumped on board without it<br />to catch a ride<br />going nowhere</p><p>and now i am there<br />needing forgiveness</p>",
+      "title": "Ride Going Nowhere",
+      "modified": "2015-06-25T23:10:04Z",
+      "slug": "poem-2"
+    },
+    "pk": 35
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "gods-door-clouds-heaven.jpg",
+      "created": "2013-10-06T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>The eye of the needle...the fifth chakra...the process of facing negative beliefs, conscious and unconscious, and allowing love to transform them...</p><p>Reading \"The Mythic Image\" by Joseph Campbell and the Kundalini Yoga book from my sister, I better understand what's at stake. This is the gateway, the clashing rocks, the guardian of the threshold.</p><p>In his chapter \"Transformations of the Inner Light\" Campbell describes the experience of waking the fourth chakra - the heart chakra - as \"the place where the sound is heard that is not made by any two things striking together\".</p><p>\"<strong>Once the great mystery sound has been heard, the whole desire of the heart will be to learn to know it more fully</strong>, to hear it, not through things and during certain fortunate moments only, but immediately and forever. The attainment of this end will be the project of the next chakra, the fifth chakra...\"</p><p>In the Upanishad, the fifth chakra is described as \"...the sharpened edge of a razor, hard to traverse\". The practitioner at the \"purgatorial fifth chakra\" is striving to clear their consciousness of the \"turbulence of secondary things\". It is called \"Vishudda\", which means \"purified\".</p><p><strong>The fifth chakra is about communication. The focus is on our will and it's expression.</strong> At this level love has been awakened and we are aware of the \"secondary\" agenda of our ego. <strong>We are beginning the process of choosing between the will of our ego and the will of God.</strong>The way is narrow because to 'hear' God's Will one must be aligned and attuned. Less than loving beliefs and influences of the ego can, and do, distract.</p><p>And yet, this is \"the whole desire of the heart\", and as we clear our consciousness of the beliefs, traditions and judgements that our ego would have us cling to - we are more able to join our will with God's Will and allow it's expression. This is the experience of 'genius', of creative expression moving freely from Higher consciousness through us.</p><p>This is Love being brought to this physical experience, one belief at a time.</p>",
+      "title": "The Fifth Chakra",
+      "modified": "2015-06-25T23:08:32Z",
+      "slug": "poem-1"
+    },
+    "pk": 36
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "tears.jpeg",
+      "created": "2013-11-03T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>Dear Martha,</p><p>I just finished reading &ldquo;Leaving the Saints&rdquo; for the first time.</p><p>Thank-you.</p><p>My lineage is one of courageous, beautiful, powerful women who loved God with open hearts. My great-great-great-great grandmother, Hanna Libby Knight, converted to the Mormon church in 1834 and knew Joseph Smith personally. Her daughter, Sarah York and Sarah&rsquo;s husband, William F. Carter, were among the Church&rsquo;s first practicing polygamists.</p><p>The &ldquo;brethren&rdquo; assumed authority in the name of God, and broke my Mothers&rsquo; trusting hearts. Joseph and the brethren were in error. <strong>God has no need for authority or control.</strong></p><p>A broken heart and a mistrust of God were my inheritance - but so were courage and a belief in good. I left the Church in 1988, when I was 29, to seek out the truth and heal from the lies of my past. Healing has come as I experience true, unconditional Love - Love that isn&rsquo;t limited by sexual definitions.</p><p>My journey has taken me close to the &lsquo;veil&rsquo;, where Love seems more accessible. This expanded experience opened naturally to me as I focused on the love I had for my husband during the months leading up to his death from a brain tumor.</p><p><strong>Perhaps this is the most powerful way to heal the wounds of the spirit, through direct, personal experience of Love that accepts all of it - even the misuse of power.</strong></p><p>I enjoyed reading about your experience with the Light. You have a gift for expressing things that aren&rsquo;t easily conveyed. I&rsquo;ve told a few people about my own experiences, but find my lack of ability, along with their skepticism, make for a frustrating dialogue.</p><p>I understand your desire to return to the state of awareness you enjoyed while expecting your son Adam. <strong>Once I&rsquo;d felt the freedom, peace and warmth of the God&rsquo;s Love, returning to that state of awareness became all that mattered to me.</strong></p><p>I&rsquo;ve learned patience and humility. That said, my overriding passion is to heal whatever is necessary to bring my day-to-day, physical experience closer to that state of Love - to remember.</p><p>This is my challenge and my joy.</p><p>I finished the book I was working on when I attended your writing seminar. I don&rsquo;t intend to publish. It was for my own clarity alone. Kept the title - &ldquo;Making Love&rdquo;.</p><p>Love,</p><p>Ardyn Wyatt</p><p>P.S. The greatest power is the power to choose. The greatest choice is Love.</p>",
+      "title": "Dear Martha",
+      "modified": "2015-05-21T05:51:26Z",
+      "slug": "poem-3"
+    },
+    "pk": 37
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "a lonely girl waiting sea shore.jpg",
+      "created": "2013-12-01T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>you needn't look so bewildered<br />it's very simple<br />my reference resides<br />within my skin</p><p>where i know i'll find Love<br />every time</p><p>where the struggle happens<br />where i come to terms<br />where my truth lives<br />where i feel God</p><p>does that suprise you?</p><p>i'm the good thing</p>",
+      "title": "the good thing",
+      "modified": "2015-06-25T23:05:13Z",
+      "slug": "poem-4"
+    },
+    "pk": 38
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "mentor.jpg",
+      "created": "2014-01-19T08:53:00Z",
+      "tags": "create",
+      "content": "<p>I'd heard it and read it many times, \"Find a mentor\", someone who had successfully negotiated a path similar to mine who was willing to offer me a leg up. A great idea in theory, but, as I searched every resource at my disposal, I started thinking it would have been easier to track Sasquatch.</p><p>Really. Where were all these experienced, successful, mature women with extra time and energy on their hands, eager to nurture my budding dreams? Did they really exist or were they simply the stuff of myth and legend?</p><p>Thanks to persistence and an unreasonable belief in miracles, I found Beth. We met through the Small Business Developement Center when I took a workshop on business finances. She teaches the class because she wants to show potential female business owners that they don't need to be intimidated by the financial side of business.</p><p>Beth is smart, she's got real-world business experience and she likes my ideas. I can't begin to tell you what that does for me. <strong>When we meet she brings structure to the conversation - a little like a business coach - but she also joins me in brainstorming the next steps and sharing her genuine enthusiasm.</strong></p><p>We'll be meeting next week, and the idea of talking to her is forcing me to bring details back to mind and refocus. Good. <strong>Just thinking about some of our past meetings is helping me feel the stream of momentum I've lost over the last several weeks.</strong></p><p>In the mean time, thanks, Beth. You may not know, so I'll have to say it. I couldn't do this without you.</p>",
+      "title": "Mentors",
+      "modified": "2016-05-25T03:38:05Z",
+      "slug": "mentors"
+    },
+    "pk": 39
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "MovingDay.jpg",
+      "created": "2014-02-16T08:53:00Z",
+      "tags": "create",
+      "content": "<p>It was time to make a move, literally and figuratively. The idea had been inching up on me for a long time, but there was just so much other stuff in front of me, it was easy to put off.</p><p>I moved around so much growing up, no one place ever felt like home, and I'm not sure I'll ever find a place that does. Even so, I was suspecting that there was an area that was more conducive - a city with less baggage attached, fewer memories that dragged on me.</p><p>But moving's a big deal, and it wasn't entirely clear the direction to go. I wanted to wait until the choice became obvious, and it did.</p><p>It often happens that way - when I try to make a decision, a choice between 'this' or 'that', and I can't sense the best way to go, rather than force myself, I wait.<strong> Invariably, if I ease off and give a little space and time, something will shift, either in me or in the circustances, and when I look again, it's an obvious call.</strong></p><p>Of course, not every decision can or should wait. Life has momentum, so I have other ways to approach decision making. The most important one I call \"listening\".</p><p>It begins with the assumption that one of the choices, 'this' or 'that', is <em>already </em>the better choice - the one that's closer to what I truly want. With 'listening' I'm just trying to discern which path that is.</p><p><strong>So, I ask.</strong></p><p>I ask myself, actually my <em>Self</em>, which option is closer to the Truth about me. <strong>Then I get quiet. I watch my thoughts. I sense my inner sensations. I suspend judgement and allow impressions to float up in my awareness. This is listening.</strong></p><p>The two, maybe three, options are before me. At some level, my inner wisdom <em>knows </em>which is best. Perhaps I just let my mind drift lightly over an imagined 'picture' of each, and see which one my body's inner knowing responds to.</p><p>Do I 'open' inside? Does my heart seem to warm and expand? Does something 'click' into place? Do my thoughts feel calm, simple and obvious? Do I feel a bubbly sensation rise up from my gut? <strong>I've had each of these be an indicator of which was the best choice, like the fog dispersed and the path lit up in front of me.</strong></p><p>This is inspiration, and I can take from this 'guidance' with confidence and joyful anticipation.</p>",
+      "title": "Making Moves",
+      "modified": "2015-05-28T04:04:06Z",
+      "slug": "making-moves"
+    },
+    "pk": 40
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Margaret_Fuller_engraving.jpg",
+      "created": "2014-03-23T08:53:00Z",
+      "tags": "remember",
+      "content": "<p>If a great tree stands among other great trees in a forest, does it make a noise?</p><p>I think it does, we just have to listen more closely. Megan Marshall has attuned our ears in her biography<a href=\"http://www.amazon.com/Margaret-Fuller-New-American-Life/dp/0547195605\"> <em>Margaret Fuller: A New American Life.</em></a> As I read this story I found it hard to believe I'd never heard of this great woman, had never before been introduced to her insights.</p><p>Sarah Margaret Fuller, born May 23, 1810 in Cambridge Massachusetts, was the precocious eldest daughter of Timothy Fuller, a Harvard Law graduate and aspiring politician. Her intelligence and willingness were recognized early, and she effortlessly took on the potential of an eldest son, raised in her father's image. Her formal education, though priviledged, was restricted to private grammar school and academies for young women, which she completed by age 16. Other than this limited educational encouragement, Margaret was home-schooled and self-taught.</p><p>Her father's aquaintances, as well as his ambitions, allowed Margaret access to the area's cultural leaders. Her friends were the artistic, philosophical and intellectual elete of the generation -<a href=\"http://www.emersoncentral.com/selfreliance.htm\"> Ralph Waldo Emerson</a>, Henry David Thereau, Nathaniel Hawthorne, Horace Greeley, Elizabeth Barrett Browning and Bronson Alcott, to name a few.</p><p>Even among this company, her accomplishments were exceptional: she created a salon, <em>Conversations</em>, intending to provoke women's intellects, and wrote the seminal feminist work, <a href=\"http://en.wikipedia.org/wiki/Woman_in_the_Nineteenth_Century\"><em>Women in the Nineteeth Century</em>.</a> As the first editor of Emerson's trascendentalist journal,<em>The Dial, </em>Margaret became known as one of the leaders in the Transcedentalist Movement. As a columnist for Horace Greeley's<em>New York Tribune, </em>she advocated for the poor, slaves and for women's rights, and by 1846 became the publication's first female editor. That same year she left for Europe and became our country's first female foreign correspondent.</p><p>And yet, as I witnessed the arch of her life, these notable accomplishments were not what impressed me most. What touched me, what sunk deep into the heart of me, was<strong> her ability to trascend the circumstances of her life, and of that day, to find a greater truth in her experience as a woman.</strong></p><p><strong>I recognize her instincts to seek out and study what was worthy, noble and honorable, and to hold these as her standard </strong>even though, as a woman, there was no cultural support for her in these efforts.<strong> I appreciate her courage and willfulness, her willingness to hold a position of tension between her aspirations and ideals, and the reality of the cultural barriers of that time. I honor her courage to acknowledge her hopes, even though doing so must have highlighted the painful truth - that she would never attain that which she could so clearly see.</strong></p><p>I'm incredibly grateful to have had the opportunity to become aquainted with Margaret Fuller. She possessed a clarity of vision, thought and word that emanated from her life and transcended the definitions of her generation. Thank-you, Margaret, for asking, \"How is it that I seem to be this Margaret Fuller? What does it mean? What shall I do about it?\" . Thank-you for \"longing to experience life with (my) 'woman's heart'\". <strong>And thank-you for having an imagination that \"empower(ed) you to incessant acts of vigorous beauty.\"</strong></p>",
+      "title": "Emerson's Editor",
+      "modified": "2015-06-30T03:16:39Z",
+      "slug": "margaret-fuller"
+    },
+    "pk": 41
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "trusting.jpg",
+      "created": "2014-04-20T08:53:00Z",
+      "tags": "create",
+      "content": "<p><span>Get Bigger.</span></p><p>It's been simmering in me - the question. The mysterious, unknown nature of the feminine - the context, the darkness, the void from which all is born.</p><p>Maybe I'm just now touching it, aligning with it. Less fear getting in the way.</p><p>The mistaken belief was that I was small, smaller than the context I found myself in, smaller that my family, my community, my church, the attitudes of the world toward me as a woman.</p><p><strong>So many circles of influences, all insisting that I play myself down so that they could feel comfortable.</strong></p><p>There was nowhere for me to fit 'out there', so I went in. In the silence, through the doorway of my heart broken open, I found access to a larger context.</p><p>Fields of subtle realities.</p><p>And one of the fields is the Feminine - the Mother - and it's BIG. In it's absolute form, it's the field from which everything in the Universe is created. In relative terms, it's the feminine - accepting, nurturing, holding, protecting, tending, sustaining, loving.</p><p><strong>It's the original creative energy. Tap into the infinite field of the feminine and bring forth from that place.</strong></p><p>Meditation, silence, allows gaps between thoughts - thoughts that are the program of our culture. As the gaps widen, new ideas and awarenesses from the Creative Field are allowed to float up into our conscience awareness. This practice strengthens our relationship with the bigger context of the Feminine Creative.</p><p><strong>Go wider. Go deeper. Get bigger.</strong></p><p><strong>Go to a different place than where you've already been - outside what has been offered, beyond the definitions of this well-defined world.</strong></p><p>The belief that was holding me back? \"I am defined by this physical, masculine-oriented, power-driven context.\"</p><p>As I've nurtured and strengthened an awareness of this femininity, this Feminine Creative, the limits of this physical world and it's assumptions, structures, definitions and games, are easier to see, easier to leave behind.</p><p><strong>I'm returning to the Feminine, in order to experience myself as accepted, held, nurtured, sustained, loved, protected.</strong></p>",
+      "title": "Get Bigger",
+      "modified": "2015-06-25T22:56:06Z",
+      "slug": "happy-birthday"
+    },
+    "pk": 42
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Joy.jpg",
+      "created": "2014-05-25T10:53:00Z",
+      "tags": "remember",
+      "content": "<p>It&rsquo;s a matter of orientation.</p><p>The common thought is that if I do something I&rsquo;ll experience joy. But if I follow that thinking, I&rsquo;m still oriented from the outside in. That doesn&rsquo;t work.</p><p>Sure, I enjoy painting. The idea is, then, to paint and experience joy. Moments of joy in an otherwise joyless existence?</p><p><strong>My moments of greatest joy are when I&rsquo;m silent and still, when I let go of all judgements and thoughts. I don&rsquo;t require an activity to get there</strong>.</p><p>Let go of the criteria. Let go of the power that the criteria holds. &ldquo;If ________ happens, then I&rsquo;ll experience joy.&rdquo;</p><p><strong>Joy is within my reach regardless of circumstance.</strong> Let go of all judgement surrounding the circumstance. Let the moment be just as it is, what ever it is, and allow myself freedom from what I thought it was suppose to be.</p><p>The assumption, then, is that joy lives within me, and as I let go of judgements about my specific circumstances, I&rsquo;ll experience that joy naturally. Oriented from the inside out.</p><p>This is true. Getting closer bit by bit. </p>",
+      "title": "Joy",
+      "modified": "2015-06-25T22:54:29Z",
+      "slug": "joy"
+    },
+    "pk": 43
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Thai Resort.jpg",
+      "created": "2014-06-29T10:53:00Z",
+      "tags": "remember",
+      "content": "<p>I'm sitting alone at my table, slapping and scratching. I don't notice anyone else scratching.</p><p>Why am I the only one scratching?</p><p>I finish my dinner quickly and go out onto the beach - the mosquitos are less active there. I set my things on a chair and wade out into the water - warm, and the waves big enough to splash above my knees.</p><p>The waves knock into me and I pant my feet deeper in the sand. The undercurrent is strong.</p><p>\"I don't belong.\"</p><p>I think of my interactions over the last few days. My efforts to connect are an effort to feel as though I belong. Why didn't Greg invite me into the conversation with Natalie and Sebastian? Because he and Sebastian had a thing going according to their buzz. I didn't fit their agenda.</p><p>\"I don't belong.\" That's the feeling, what's communicated from the exclusion - the lack of response.</p><p>Maybe I know why. I don't fit into any of the cultural stereotypes. I'm the only middle-aged woman at this Thai resort, and I'm traveling alone.</p><p>White. Fleshy. With mosquito bites.</p><p>No tan lines. No tattoos.</p><p>Tourist.</p><p><strong>I dig my feet into the sand. Deep, up to my ankles. I feel the skin of my soles press against the rough, broken bone and shells.</strong> The waves push against me.</p><p>I'm in my body - can feel it in contact with the watery earth.</p><p>I stand still. I notice myself feeling my soles.</p><p>I stand some more.</p><p><strong>I stand and breath, until I feel my breath all the way down into my pelvis.</strong></p><p>I go deep. I go wide.</p><p>I release my sorrow into her.</p><p>I don't have to try. I'm a natural.</p><p><strong>I was born into a body made for this. I am of the energy that carries. I am of the energy that holds.</strong></p><p>I am of the energy that provides the nurturing context - unconditionally.</p><p><strong>She is big. She is so incredibly big. And I am of her, and with her, and I am also big. This is where I'm connected. This is home.</strong></p><p>I'm no tourist.</p><p><strong>I'm the destination.</strong></p>",
+      "title": "The Destination",
+      "modified": "2015-06-25T22:52:51Z",
+      "slug": "destination"
+    },
+    "pk": 44
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "heart.jpg",
+      "created": "2014-07-27T10:53:00Z",
+      "tags": "remember",
+      "content": "<p><strong>I knew how to love Al better than I loved myself.</strong></p><p>So, when he came to my home with affected speech and slight weakness on his left side, I knew how to forgive him. I knew how to get him to an emergency room. I knew how to ask the doctor all the necessary questions.</p><p>And, when they told us about the mass in the right frontal lobe, I knew how to say to him, \"I'm staying with you no matter what comes&rdquo;. It was obvious. This is how I knew to love him.</p><p>I left my job as an agency Director.</p><p>I became ambulance and chauffeur.</p><p>I became his right-hand business assistant.</p><p>This is how I loved him.</p><p>I made sure he took his medications.</p><p>I made sure he stayed in touch with his friends and family.</p><p>It was obvious and easy.</p><p>When his legs became too weak to hold him, I became his crutches.</p><p>When his memory began to falter, I became his list-maker.</p><p>When his speech began to fail, I became his voice.</p><p>Of course I did. This is how I loved him.</p><p>And on July 13, 2002 when he lost interest in this life and left his physical body, part of me went with him.</p><p><strong>In the clarity that comes when a life is in the balance, I'd made the choice to let go of my self and give all I had to Al. This is how I loved him, by giving him my attention, focus, care, energy and resources to sustain his life. It was just so obvious.</strong></p><p>After Al passed I promised to love myself as well as I'd loved him. It wasn't until that moment that I realized that I didn't know what that meant.</p><p><strong>It's taken me years to realize that loving myself means acknowledging that I am the Love that loved Al.</strong> I am the generosity that gave what was needed. I am the beauty that saw the beauty in him. I am the knowing that forgave him quickly and completely.</p><p><strong>Loving myself means including myself in Love - seeing myself good. When I let go of my little ideas about myself, Who I really Am becomes obvious. I trust God, and \"know myself Love in the giving of it\".</strong></p>",
+      "title": "Loving Myself",
+      "modified": "2015-05-28T04:40:38Z",
+      "slug": "loving-myself"
+    },
+    "pk": 45
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "playing.jpg",
+      "created": "2014-08-24T10:53:00Z",
+      "tags": "remember",
+      "content": "<p>I need not judge another 'down' in order to know myself 'up'.</p><p>I need not assess another 'wrong' in order to sense myself 'right'. This is the habit born of my \"only true church\" upbringing, afloat in self righteousness.</p><p><strong>As I experience myself good in the eyes of God, in the arms of Love, I feel no need to judge another below me.</strong> My good is plenty, and don't need to look to another to know it.</p><p>What am I relating to?</p><p>Not another's failings. Not to my physical being.</p><p><strong>I'm relating to that which is most true in both of us. Relating to courage. Relating to curiosity. Relating to freedom, to creativity, to compassion, to open-heartedness. Relating to passion, to wisdom, to their beauty and their hope for their lives.</strong></p>",
+      "title": "I Am Enough",
+      "modified": "2015-05-28T04:41:13Z",
+      "slug": "i-am-enough"
+    },
+    "pk": 46
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "dialogue.jpg",
+      "created": "2014-09-28T10:53:00Z",
+      "tags": "create",
+      "content": "<p>I 'find myself' in dialogue.</p><p>I've stumbled into a conversation with my daughter and son-in-law about Duck Dynasty. We move quickly into a deep discussion about gun control, Louisiana, and gay marriage.</p><p>This is no argument. We're on the same side of any major political or philisophical divides.</p><p>\"I watched the first season on Netflix because someone told me it'd give me insight into starting a new business. I was pleasantly surprised at much I could relate to people who hold views so completely contrary to mine. When the father and uncle use their guns, I don't think they do it as a political statement. It's truly just part of who they are.\"</p><p>\"Yes, it's who they are, but guns are still for killing and I don't want them in my home,\" my daughter responds.</p><p><strong>And in her response, I hear that I haven't made myself clear. I hadn't looked beyond my own obvious before speaking. There's more to it.</strong></p><p><strong>I 'find myself' while searching for the words to express something more true. I look closer, to access what I really meant, what I really wanted to say - refining, deepening. I want to be accurate, to be understood.</strong></p><p>\"<em><strong>I'm not pro gun, but I am pro human. </strong></em>I think my surprise was to find I could relate to them on a very human level. They seem genuine, particularly Phil and Si. And you don't see that kind of genuine on T.V. much.\"</p><p><strong>As the words leave my mouth, I realize I had to find these 'more true' words in answer to a necessity born of dialogue and I'm grateful to my daughter for insisting I find them.</strong></p>",
+      "title": "Dialogue",
+      "modified": "2015-06-25T22:57:58Z",
+      "slug": "dialogue"
+    },
+    "pk": 47
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "TheWarOfArt.jpg",
+      "created": "2014-10-26T10:53:00Z",
+      "tags": "create",
+      "content": "<p>You don&rsquo;t know until you make the commitment - until you begin the diet, start the business, commit to the spiritual path - just how much resistance you&rsquo;re in for.</p><p>I expected it to be a challenge. I knew that starting my new business, and journaling about my spiritual journey, would have obstacles. I imagined coming face-to-face with the unfamiliar and the discouraging, but I thought the process would be clean. I thought my journaling would be tidy, and that I&rsquo;d have the insight to convey my experiences in an engaging, google-search-worthy, enlightening package.</p><p>Instead, this creative pursuit has exposed unconscious, self-sabotaging relationships and beliefs that have remained, despite all previous efforts, and undermined my life and my happiness.<strong>My commitment to creating something worthy, something that accurately reflects the best I know to be true about myself, has become an exercise in vigilance, persistence, courage and humility beyond anything I anticipated.</strong></p><p>In <em><a href=\"http://www.amazon.com/dp/1936891026/?tag=googhydr-20&amp;hvadid=31655411797&amp;hvpos=1t1&amp;hvexid=&amp;hvnetw=g&amp;hvrand=14326155803626609513&amp;hvpone=&amp;hvptwo=&amp;hvqmt=b&amp;hvdev=c&amp;ref=pd_sl_2y0yuqzbcd_b\">The War of Art</a></em>, Steven Pressfield describes with intimate transparency the role of resistance in the creative process. It will easily and surely become one of my life-lines and a dog-eared companion, becuse this humble, honest little book has helped me forgive myself for not being better at this. This is how Art is born.</p><p>So, tidy, search-worthy and engaging have been abandoned for clear, simple and true. If it happens to be enlightening, great. I&rsquo;ll consider it a happy surprise.</p><p><strong>I&rsquo;ve been including excerpts directly from my personal journal, sharing more about the emotional process of confronting my limiting beliefs. I'll be doing more of that.</strong></p><p>I won&rsquo;t whine. I&rsquo;ll try not to self-indulge and I'll make an effort to share something of value.</p><p>Geronimo!</p>",
+      "title": "The War of Art",
+      "modified": "2015-05-27T03:56:56Z",
+      "slug": "war-art"
+    },
+    "pk": 48
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "You Were Made for This.jpg",
+      "created": "2014-11-09T10:53:00Z",
+      "tags": "remember",
+      "content": "<p>This admonition from <a href=\"http://www.clarissapinkolaestes.com/\">Dr. Estes</a> has seen me through many moments...</p><p><span>My friends, do not lose heart. We were made for these times. I have heard from so many recently who are deeply and properly bewildered. They are concerned about the state of affairs in our world now. Ours is a time of almost daily astonishment and often righteous rage over the latest degradations of what matters most to civilized, visionary people.</span></p><p>You are right in your assessments. The luster and hubris some have aspired to while endorsing acts so heinous against children, elders, everyday people, the poor, the unguarded, the helpless, is breathtaking.<strong> Yet, I urge you, ask you, gentle you, to please not spend your spirit dry by bewailing these difficult times. </strong>Especially do not lose hope. Most particularly because, the fact is that we were made for these times. Yes. For years, we have been learning, practicing, been in training for and just waiting to meet on this exact plain of engagement.</p><p>I grew up on the Great Lakes and recognize a seaworthy vessel when I see one. Regarding awakened souls, there have never been more able vessels in the waters than there are right now across the world. And they are fully provisioned and able to signal one another as never before in the history of humankind.</p><p>Look out over the prow; there are millions of boats of righteous souls on the waters with you. <strong>Even though your veneers may shiver from every wave in this stormy roil, I assure you that the long timbers composing your prow and rudder come from a greater forest. That long-grained lumber is known to withstand storms, to hold together, to hold its own, and to advance, regardless.</strong></p><p>In any dark time, there is a tendency to veer toward fainting over how much is wrong or unmended in the world. Do not focus on that. There is a tendency, too, to fall into being weakened by dwelling on what is outside your reach, by what cannot yet be. Do not focus there. That is spending the wind without raising the sails.</p><p><strong>We are needed, that is all we can know. And though we meet resistance, we more so will meet great souls who will hail us, love us and guide us, and we will know them when they appear.</strong> Didn't you say you were a believer? Didn't you say you pledged to listen to a voice greater? Didn't you ask for grace? Don't you remember that to be in grace means to submit to the voice greater?</p><p>Ours is not the task of fixing the entire world all at once, but of stretching out to mend the part of the world that is within our reach. <strong>Any small, calm thing that one soul can do to help another soul, to assist some portion of this poor suffering world, will help immensely.</strong> It is not given to us to know which acts or by whom, will cause the critical mass to tip toward an enduring good.</p><p>What is needed for dramatic change is an accumulation of acts, adding, adding to, adding more, continuing. <strong>We know that it does not take everyone on Earth to bring justice and peace, but only a small, determined group who will not give up during the first, second,<em> or hundredth gale.</em></strong></p><p>One of the most calming and powerful actions you can do to intervene in a stormy world is to stand up and show your soul.<strong> Soul on deck shines like gold in dark times. </strong>The light of the soul throws sparks, can send up flares, builds signal fires, causes proper matters to catch fire. To display the lantern of soul in shadowy times like these &ndash; to be fierce and to show mercy toward others; both are acts of immense bravery and greatest necessity.</p><p><span>Struggling souls catch light from other souls who are fully lit and willing to show it. If you would help to calm the tumult, this is one of the strongest things you can do.</span></p><p>There will always be times when you feel discouraged. I too have felt despair many times in my life, but I do not keep a chair for it.<strong> I will not entertain it. It is not allowed to eat from my plate.</strong></p><p>The reason is this: In my uttermost bones I know something, as do you. <strong>It is that there can be no despair when you remember why you came to Earth, who you serve, and who sent you here. The good words we say and the good deeds we do are not ours. They are the words and deeds of the One who brought us here.</strong> In that spirit, I hope you will write this on your wall: <em><strong>When a great ship is in harbor and moored, it is safe, there can be no doubt. But that is not what great ships are built for.</strong></em></p>",
+      "title": "You Were Made for This",
+      "modified": "2015-05-27T03:55:57Z",
+      "slug": "you-were-made"
+    },
+    "pk": 49
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "woman god hates.jpg",
+      "created": "2014-11-23T10:53:00Z",
+      "tags": "create",
+      "content": "<p><span>Mother dreamed of being loved</span></p><p><span>But where do you go when God is against you?</span></p><p>So far away you lose yourself</p><p>She lives in a night terror</p><p><span>Visiting images of her shame</span></p><p>The world can't love enough the woman God forgot.</p>",
+      "title": "The Woman God Forgot",
+      "modified": "2016-05-25T07:12:59Z",
+      "slug": "ref"
+    },
+    "pk": 50
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "creek and stars.jpg",
+      "created": "2014-12-07T10:53:00Z",
+      "tags": "remember",
+      "content": "<p><span>When my inspiration fails me, I rediscover gratitude for those who have opened to their own genius and offered it up. The mystic poet <a href=\"http://www.amazon.com/dp/0060604522/?tag=googhydr-20&amp;hvadid=36309308979&amp;hvpos=1t1&amp;hvexid=&amp;hvnetw=g&amp;hvrand=4046868236670700848&amp;hvpone=&amp;hvptwo=&amp;hvqmt=b&amp;hvdev=c&amp;ref=pd_sl_9fert9tpu4_b\">Rumi </a>has been a friend to me, and it&rsquo;s O.K. to rely on good friends. We were never meant to do this alone...</span></p><p><strong>The Creek and the Stars</strong></p><p>Spirit is so mixed with the visible world that giver,</p><p><span>gift, and beneficiary are</span></p><p>one thing. You <em>are</em> the grace raining down, the grace</p><p><span>is you. Creation is</span></p><p>a clear, flat, fast-moving creek, where qualities reflect.</p><p><span>Generations rush by, while</span></p><p>the stars stay still without a splash. When you lose your</p><p><span>appetite for food, you&rsquo;ll</span></p><p>be given other nourishment. There&rsquo;s well-being that is not</p><p><span>bodily and beings</span></p><p>that live on fragrance. Don&rsquo;t worry about losing animal</p><p><span>energy. Go the way of love</span></p><p>and ask provision. Love more the star region reflected,</p><p>less the moving medium</p>",
+      "title": "The Creek and the Stars",
+      "modified": "2015-05-28T04:05:25Z",
+      "slug": "creek-and-stars"
+    },
+    "pk": 51
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Silent Night.jpg",
+      "created": "2014-12-28T10:53:00Z",
+      "tags": "remember",
+      "content": "<p><span>I felt Christmas coming. It came in gently. Quietly.</span></p><p>I could have geared up - it was happening all around me. But, when I opened my &ldquo;Christmas Supplies&rdquo; boxes, all I imagined was how beautiful and festive the decorations would look in my daughters&rsquo; homes.</p><p>It was easy to give them away. I was already feeling Christmas, and it didn't need adornment.</p><p>Christmas feels like a soft, appreciative heart. It feels like a solitary walk on a quiet street, with tears of gratitude resting lightly under the surface of my mind.</p><p>It feels like my best friend is beside me, loving me easily and surely.</p><p><strong>It feels like a gift has been given me, and all I can imagine is &ldquo;Thank-you&rdquo;. </strong></p>",
+      "title": "Silent Night",
+      "modified": "2015-06-25T22:43:23Z",
+      "slug": "silent-night"
+    },
+    "pk": 52
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Al dies_large_inline.jpeg",
+      "created": "2015-01-18T10:53:00Z",
+      "tags": "remember",
+      "content": "<p>Something happened over Christmas. I was feeling alone, truly discouraged by the challenges and resistance I'd been facing.</p><p>Then I felt Christmas coming.</p><p>And I was no longer alone.</p><p>With thoughts about forgiveness, my mind turned toward a piece from my book <em>Making Love.</em>I'd like to share it.</p><p><em><span>The mass in Al's brain was the size of a lime. They did an x-ray, but only after we&rsquo;d secured admission from the triage nurse.</span></em></p><p><em><span>&ldquo;Try to look sick,&rdquo; I&rsquo;d whispered to Al. If the nurses detected his natural charisma, caught a glimpse of his dark eyes and Cheshire smile, they may not notice the subtle symptoms that only seemed obvious to me. He obediently dropped his chin to his chest, rolling his head slightly to one side. What a ham.</span></em></p><p><em><span>&ldquo;We want them to admit you, not bury you.&rdquo;  </span></em></p><p><em><span>When he brought the x-ray in, the doctor said the mass could be a number of things, infection, fluid - but his words came in short clips, and he couldn&rsquo;t look either of us in the eye. He&rsquo;d shown us the image as though relieving a burden, hoping we'd grasp the implications. But we simply stared silently at the x-ray in trusting ignorance.</span></em><em></em></p><p><em><span>&ldquo;We&rsquo;ll need to do more tests,&rdquo; he said, and left us to our imaginations.</span></em></p><p><em><span>They moved us into a room down a hall, around a corner, somewhere in the belly of the building. We waited alone, not knowing what we waited for.</span></em></p><p><em><span>&ldquo;It&rsquo;s cold in here.\"</span></em><em>Al was on a stainless steel gurney in a too-small gown, the brown skin of his back sticking to the cool, unforgiving surface.</em></p><p><em><span>&ldquo;It looks like the room for burn victims.&rdquo;</span></em></p><p><em><span>&ldquo;No more beds in the ER, I guess.&rdquo; His voice was innocent, almost reverent. Al was being accommodating, generous, bargaining with fate in hopes of negotiating positive test results.</span></em></p><p><em><span>I sat awkwardly next to the gurney in a stackable chair. The room&rsquo;s harsh fluorescent lights created a sallow tint on Al&rsquo;s skin. The room was filled with his silence, the overwhelming absence of his self-absorbed monologue. Outside in the hall were intermittent, muffled sounds of hospital movement. </span></em></p><p><em><span>Al&rsquo;s gown had loosened and I tucked the hem of it under his knee. It was too small and no one was coming. He</span></em><em><span>lay patient and still, his hands folded meekly on his chest, like a defenseless child, alone. His vulnerability touched something deep in me, and a memory rose in my mind.</span></em></p><p><em><span>I was five years old and at home with my family on a Monday night. Dad was telling stories while the kids lay on the floor, our feet stretched facing the fire. My toes were warm. There were six of us with pillows, including Kath and me.</span></em></p><p><em><span>Mother had a plan. She wanted each of us to have special time alone with Dad. We&rsquo;d go to dinner with him. We&rsquo;d take turns, oldest to youngest.</span></em></p><p><em><span>&ldquo;I&rsquo;m always last!&rdquo; I whined. So Mother said we&rsquo;d draw straws. It would be fair.</span></em></p><p><em><span>Mother plucked six straws from her broom and pinched them in the palm of her hand. We each pulled one and held them up. I&rsquo;d drawn the shortest straw and my family erupted in laughter. They were laughing at me, at my designated spot at the bottom. They were glad to have escaped the bottom. I was struck silent, tingling with shame.</span></em></p><p><em><span>That moment of aloneness was still alive in me. </span></em></p><p><em><span>The steel room was getting colder and still no one came. Tiny goose bumps were rising up on Al&rsquo;s legs. I took off my sweater and wrapped it across his chest. They could have at least given him a blanket.</span></em></p><p><em><span>Even with my feelings of empathy, I wasn&rsquo;t forgetting Al&rsquo;s offenses. They had weight and mass in my memory. This was the man who, for nine years, had relentlessly belittled my emotions and taken advantage of my inexperience and generosity. His sins were still real to me.</span></em></p><p><em>Yet, as I realized where we were and the possible implications of what was still to come, the significance of Al's offenses began to loose their status. I began to soften toward this man I still loved.</em></p><p><em></em><em><span>But the rational, reasonable part of me didn&rsquo;t want to soften. It wanted to hold him responsible. What he'd done to me was wrong and had hurt me terribly. I didn't have to forgive him and I shouldn&rsquo;t have to save him from the consequences of his choices. </span></em></p><p><em><span>I shouldn&rsquo;t have to care, the one voice in my head told me. But their was another voice - soft, steady and sure. My heart was still open and I was face to face with my beliefs about love.</span></em></p><p><em><span>&ldquo;How long have we been here?&rdquo; Al asked.</span></em></p><p><em><span>&ldquo;I don&rsquo;t know,&rdquo; I answered quietly, still remembering that night thirty-five years ago, and Mother&rsquo;s voice, crisp and final after the laughter.</span></em></p><p><em><span>&ldquo;O.K. kids, time for bed.&rdquo; </span></em></p><p><em><span>Kath and I had twin beds in a room at the end of the hall. Mother left us each with a peck on the forehead and the room went silent. I was silent. I was at the bottom and lost, stunned by my family&rsquo;s abrupt rejection. I didn&rsquo;t understand, and lay staring into the darkness of the room.</span></em></p><p><em><span>In the quiet I felt my covers move, lifted back, and a nudge. Wordlessly, Kath pulled herself next to me on the bed. Her head on my pillow, she stretched her arm over and around me like a wing. Her knees fit snug into the back of my legs.</span></em></p><p><em><span>I wasn&rsquo;t alone. Kath and I were connected. We held onto each other. Remembering the assumption of love and its sweet innocence, I forgot the sting of my family's harshness and the world that created it. Kath and I had an unspoken understanding - w</span></em><em>e shared, we took turns.</em><em><span>There was no winner and looser, there was room for both of us. </span></em></p><p><em></em><strong><em><span>The assumption of love was a very big place. </span></em></strong></p><p><em><span>With each breath I felt the reassuring rise and fall of Kath&rsquo;s arm. Doubt and fear softened into pale shades of grey and fell away. Kath and I fell asleep together, like spoons.</span></em></p><p><em><span>In the cold of the steel room, I remembered love, all of it, and I had a choice to make. I pulled my chair up next to Al, until my knees touched the gurney. I leaned into him and touched his chest, lowering myself beside his cheek.</span></em></p><p><em>&ldquo;I&rsquo;m staying,&rdquo; I whispered. Al&rsquo;s lips moved silently into a gentle smile. He wasn&rsquo;t alone. &ldquo;Whatever they tell us. No matter what comes, I&rsquo;m staying.&rdquo; A drop from the corner of Al&rsquo;s eye fell and I caught it with my waiting fingers.</em></p>",
+      "title": "Forgiveness",
+      "modified": "2015-06-25T22:44:23Z",
+      "slug": "forgiveness"
+    },
+    "pk": 53
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "S.F. Marathon_large_inline.jpeg",
+      "created": "2015-02-22T10:53:00Z",
+      "tags": "remember",
+      "content": "<p><span>My first marathon was the San Francisco in 1997. I trained with the Lymphoma &amp; Leukemia Society&rsquo;s Team in Training because I knew I was much more likely to go the distance if crossing the finish line meant benefitting another.</span></p><p>There&rsquo;s a lot I could say about the lessons learned while training for an endurance event. I learned to discipline myself to a demanding schedule. I learned to eat and drink like an athlete. I learned to take <em>really good </em>care of my feet.</p><p><strong>More than that, I learned to listen to my body.</strong> I found my heart and breathing rates were the best way to assess my conditioning relative to stressors. I discovered my brain would start producing endorphins on each run at about the six mile mark when my mind would become clear and relaxed.</p><p>When the scheduled distances increased to over 16 miles, the challenges became more mental than physical. My mindset evolved - &ldquo;How do I train<em> through</em> whatever might show up?&rdquo; - because I was committed to crossing the finish line.</p><p>All valuable lessons. And, on the day of the run, I appreciated every one of them. But all of them pale in comparison to the lesson I learned the day of the marathon at mile 24.5.</p><p>Mile 21 was &ldquo;the wall&rdquo; - when my body exhausted all it's chemical energy in the form of glycogen in the muscles and liver. I remember thinking, &ldquo;I&rsquo;m running on pure determination now.\"<strong>I was fueled exclusively by the energy of<em> will </em>from that time on, b</strong><strong>ecause there was simply nothing physical left to draw on.</strong></p><p>At mile 22, I remember my Dad joining me to run the last few miles - not clear, very fuzzy, something about the top of my head being very hot. Basically, delirium.</p><p>And then came mile 24.5. We were on a small rise on a road in Golden Gate park leading toward Kezar Stadium. I could just hear the band music playing at the finish line. I turned, spontaneously to my Dad, threw my arms in the air and chirped <strong>&ldquo;Here&rsquo;s where we show what we&rsquo;re made of!&rdquo;</strong> </p><p>I had reached the &lsquo;zone&rsquo;, when all that was left was me, the next step, and a sense of my Self I never knew I had - <strong>a Self that transcended whatever obstacles remained in my imagination. My awareness could not have been more potent or more present, because there was nothing else left</strong> - no past successes to refer to, no inflated ideas about the finish - just me, my Self, and the moment.</p><p><strong>All that training. All that effort and focus, and it wasn&rsquo;t about the finish line.</strong> Of course, if the finish line hadn&rsquo;t been the goal, I never would have discovered &lsquo;the moment&rsquo;, but finishing was a given. The actual gift was totally unexpected. <strong>The real gift was the unencumbered moment, the experience of finding out what I was truly made of.</strong></p>",
+      "title": "What We're Made Of",
+      "modified": "2015-07-01T23:23:19Z",
+      "slug": "what-were-made"
+    },
+    "pk": 54
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "choices.jpg",
+      "created": "2015-04-26T08:53:00Z",
+      "tags": "create",
+      "content": "<p><span>I almost gave up. But I didn&rsquo;t.</span></p><p>I hesitate to write about why, but I think it matters and it might serve another good.</p><p>Because, as I&rsquo;ve moved forward with my hopes and goals, I&rsquo;ve uncovered some truly self-sabotaging habits, ones that I wouldn&rsquo;t have become aware of unless I&rsquo;d committed to achieving my vision.</p><p>The self-sabotage showed up in my relationships - in the realization that<strong> I was answering to people who didn&rsquo;t want to see me succeed.</strong> I hadn&rsquo;t been aware of the &lsquo;terms&rsquo; of certain interactions until I challenged them by holding myself to a higher standard.</p><p>Now I&rsquo;ve upset the assumptions, the expectations those connected to me were most invested in. I&rsquo;m upgrading, and some are taking it personally. <strong>Still snagged on barbed beliefs about comparison and competition, it seems they need me to fail in order to feel good about themselves.</strong> If they&rsquo;re to stay in dialogue with me, it means they&rsquo;ll have to take a closer look at their motives.</p><p>It&rsquo;s been a very painful and gradual realization on my part. I didn&rsquo;t want it to be true, because I didn&rsquo;t want to have to make the choice between someone I love and my own success and happiness. But, really, there is no choice. <strong>For the sake of what I know to be more true, I've got to let go of the 'bonds of suffering' we held in common, no matter how dear they may seem</strong>.</p><p>Putting another&rsquo;s approval or comfort before my own joyful pursuit would be a disservice.<strong>The truth I refuse to abandon is that my success does not define another's failure; that there is freedom, space and capability for every desiring individualto succeed. Playing myself down to satisfy another&rsquo;s insecurity would simply be a sin against the best in both of us.</strong></p><p>I choose better.</p>",
+      "title": "I Choose Better",
+      "modified": "2015-07-01T23:13:39Z",
+      "slug": "elizabeths-dream"
+    },
+    "pk": 55
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Dear daughter.jpg",
+      "created": "2015-05-10T10:53:00Z",
+      "tags": "remember",
+      "content": "<p>Dear daughter,</p><p>Last night when we talked you sounded more down than I&rsquo;ve heard you in a long time. I could feel your sadness and your struggle to stay hopeful.</p><p>The &lsquo;protective mother&rsquo; part of me wants to save you from this struggle. I want to say the right words, do just the right thing, or give you just the right book to help things become clearer to you. Part of me wants to gather everything I&rsquo;ve ever learned, take charge, and make everything better.</p><p><strong>All I want, all I&rsquo;ve ever wanted is for you to be safe, happy and free</strong>.</p><p>I&rsquo;ve told you before that when you came into my life it was my very first experience of loving someone unconditionally. Now I can look back on it and tell you how that changed my life completely, why it&rsquo;s so important.</p><p>Because what you brought with you, you courageous, amazing little woman, was the undeniable, powerful, truth - that you were Love in a tiny body - pure, innocent, trusting, unapologetic and shining. And I joined you in that love. I trusted it.</p><p><strong>I could see and feel God in you. It was so pure, so obvious. And that experience, that knowledge, became my compass and my barometer for measuring everything else that came my way. </strong>Following that Love has led me home to the Truth.</p><p>It might not have seemed that way to you. The life I was living when you were born, and the beliefs I held about myself, were so far from love. My journey has been a long one, and I&rsquo;ve had to confront many deeply held, incorrect beliefs. You&rsquo;ve had the dubious honor of being part of my learning. I know it wasn&rsquo;t easy for you.</p><p>I see you now on your journey. I see you - a determined, open-hearted, creative young woman with a dream of happiness for her life.</p><p>I see the perfect, pure being that you were when you first arrived for this adventure. You are still that being. <strong>You are God&rsquo;s own child, pure Love, pure innocence. If I could give you anything, it would be the memory of this truth about yourself.</strong></p><p>It is what is most true. It is what I see when I see you through the eyes of my heart. It is what I know.</p><p>Even though the circumstances that surround you may seem overwhelming, may convince you otherwise, ignore them. You are not a victim. You are a powerful, free creator. <strong>You are included fully in God&rsquo;s Love, and any belief, person, organization or memory that even hints otherwise is a lie.</strong></p><p>More than that, the Truth about you doesn&rsquo;t live in any outward condition or circumstance. It lives deep within you. <strong>Pure beauty and Love live quietly, in the shelter of your heart.</strong> This pure beauty will burn away the lies.</p><p>Spend time there. Remember with me.</p><p>This is where I hold you.</p><p>Love,</p><p>Mom</p>",
+      "title": "My Dear Daughter(s)",
+      "modified": "2015-06-30T03:20:26Z",
+      "slug": "dear-daughter"
+    },
+    "pk": 56
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "Barack 5.jpg",
+      "created": "2015-06-26T10:53:00Z",
+      "tags": "remember",
+      "content": "<p><span>Dear Mr. President,</span></p><p>I listened to your <a href=\"http://www.wtfpod.com/podcast/episodes/episode_614_-_the_president_was_here\">Marc Maron podcast</a> the other day. Thank-you for making yourself accessible, for the chance to experience you in a person-to-person, man-cave-garage dialogue.</p><p>Even though I read your book <em><a href=\"http://www.amazon.com/Dreams-My-Father-Story-Inheritance/dp/1400082773\">Dreams from My Father</a></em> several years ago, it touched me to listen to you shed light on some of the decisions that went into organizing your life. &ldquo;Trying on different outfits&rdquo;, returning to core values such as honesty and kindness, and forgiving ourselves, are life activities that ring true to many of us.</p><p>I also appreciated hearing your reasoning and discussion about issues surrounding gun safety laws and race relations. Your efforts to break out of old political patterns and connect with the latent decency within the American people was not lost on me.</p><p>So now its easy for me to imagine you in my own living room. And we're having a great conversation over tea. I don't know if you drink tea, or if you can only drink out of unopened water bottles, but protocols and formalities have been dismissed (no disrespect intended). Because, in my imagination we're already in mid-conversation, talking about things that matter and the beautiful truths that form the foundation of our country's belief system and what they mean to the people you lead.</p><p>I can imagine that you might listen to what I have to say, and so I'm telling you about my experience working with high-need families in northern California. The non-profit I directed had amazing success reducing the number of children in group homes using a strengths-based model called <a href=\"http://nwi.pdx.edu/\">Wraparound</a>.</p><p>It worked because we were able to get around some of the prohibitive structures by blending funding streams from several sources, including State, Federal, CPS, Juvenile Justice and Children's Mental Health. More importantly, it worked because the 'treatment' approach was community-based, and <strong>grounded in the assumption that every person we served was innately valuable and in possession of unique strengths. Goodness<em>can</em> be operationalized.</strong></p><p>Thank-you for using words like \"hope\" and \"love\" when discussing what's effective in improving the lives of less advantaged children. <strong>The power within a loving intent is beyond our ability to measure. In our outcome-driven culture we too often undervalue and underestimate the potential effects of pure goodness.</strong></p><p>I've often wondered how it was we lost a sense of reverence for our humanity. Lincoln referred to the &ldquo;better angels of our nature\" and that makes me smile. <strong>It means there was a time when the president of our country could refer to &ldquo;angels\" and &ldquo;our nature&rdquo; in the same sentence, and assume a common understanding with his audience.</strong> Personally, I think he was on to something.</p><p>So much more I could say, but that's enough for now. Again, thank-you for inspiring meaningful dialogue. It's been great 'talking' to you, if only in my imagination.</p><p>I wish you every good thing. You are in my prayers.</p>",
+      "title": "Dear Mr. President",
+      "modified": "2015-07-02T06:18:30Z",
+      "slug": "dear-mr-president"
+    },
+    "pk": 57
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "ideas of love.jpg",
+      "created": "2015-07-19T10:53:00Z",
+      "tags": "create",
+      "content": "<p><span>God awoke </span></p><p><span>within the morning&rsquo;s glistening horizon</span></p><p><span>and cast His mind upon</span></p><p><span>infinite waves</span></p><p></p><p><span>fractures of light</span></p><p><span>afloat on His desire</span></p><p></p><p><span>ideas of Love</span></p><p><span>bobbing about the to and fro</span></p><p></p><p><span>dancing for their lives</span></p><p><span>singing solo</span></p><p><span>and in harmony</span></p><p></p><p><span>opened and witnessed</span></p><p><span>spent</span></p><p></p><p><span>until</span></p><p><span>hearing God&rsquo;s call</span></p><p><span>His ideas of Love return</span></p><p><span>known</span></p><p><span>to the home of a greater shore</span></p>",
+      "title": "Ideas of Love",
+      "modified": "2015-08-22T21:05:18Z",
+      "slug": "ideas-love"
+    },
+    "pk": 58
+  },
+  {
+    "model": "journal.post",
+    "fields": {
+      "image": "my love story.jpg",
+      "created": "2015-08-23T10:53:00Z",
+      "tags": "remember",
+      "content": "<p>I'm on a second draft of my self-published book \"Making Love\". I've changed the title to \"Forgiven: A True Story About True Love \" and I like what it's evolving into. If someone asks what it's about, here's what I'll say:</p><p><span>\"I've, I've fallen off the top. If I make things...right with you...everything will be O.K.\" Al sat across from me, earnestly beseeching my help. Al, the lover who had manipulated, betrayed, belittled and abused me for nearly ten years. I'd left him a year ago, but he'd come to find me, weak on the left side of his body and struggling to produce full sentences. He was in real trouble, and I had a decision to make.</span></p><p><em>Forgiven</em> is a letter to my daughters chronicling the events that facilitated the unfolding of my spiritual understanding. It's an account of my departure from the cloistered culture of the Mormon church and my quest for freedom from my family's generational wounds. It's an exposition of the soulless systems I encountered as a naive, single mother, and my attempts to negotiate them with integrity. It's a story about my love relationships with my daughters, my twin sister and my husband Al, and about the life-changing opportunity he offered me. Ultimately, it's a love story celebrating the challenges and choices that lead me to experience the truth about myself and a reunion with my God.</p><p>Forgiveness is the act of acknowledging and referencing the connective tissue of mystical union, an act of faith that stands witness to the body of our commonly held consciousness. When we choose to forgive another, we claim our identity as God's offspring and call to our experience the gifts of heaven, gifts that heal and inform us. In God's eyes we already exist in perfect, loving union. When we forgive we access this truth directly, weakening the grip of our ego and bringing our true identity closer to our conscious awareness.</p><p>My ability to forgive forms the bridge that lifts me from the confusion and pain of a conflicted world, to peace and communion with God. As I've turned my mind and heart, choice by choice, toward the God within me and a love that includes, my perception has expanded. The practice of forgiveness exposes my true identity, thinning my attachment to judgement and separation, and deepening my relationship with unifying love, grace and guidance. My identity evolves from ideas <em>about</em> my self to a state of <em>being </em>my<em> </em>Self; from, \"Oh, now I <em>get</em> it!\" to, \"Oh, now I'm <em>being</em> it!\"</p><p>This new identity can't be comprehended, only practiced. It's a stance of willingness toward God, a state of openness, non-judgment and humility. We ask what our soul needs to ask, then listen, forgiving whatever may get in the way. We then rest in quiet certainty, listening once again. With the practices of forgiving and listening we come to know Inclusive Love as our context and our true nature, experiencing others, and ourselves, as <em>forgiven</em>.</p>",
+      "title": "Forgiven: A True Story",
+      "modified": "2016-05-25T08:03:38Z",
+      "slug": "forgiven"
+    },
+    "pk": 59
+  }
+]
