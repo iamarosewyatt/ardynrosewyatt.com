@@ -2,6 +2,7 @@ from ckeditor.fields import RichTextField
 from django.contrib.sites.models import Site
 from django.db.models import Model, CharField, ImageField, DateTimeField, SlugField
 from django.template.defaultfilters import slugify
+from django.urls import reverse
 from django.utils import timezone
 from tagging.fields import TagField
 
@@ -22,7 +23,6 @@ class Post(Model):
         return 'http://{}{}'.format(Site.objects.get_current(), self.get_absolute_url())
 
     def get_absolute_url(self):
-        from django.urls import reverse
         return reverse('journal.views.post', args=[
             self.created.year,
             self.created.month,
