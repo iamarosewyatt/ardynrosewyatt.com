@@ -301,8 +301,42 @@ img.header {
 
 .cool-stuff .topic {
     margin: 20px 0;
-    border-top: 2px #000 solid;
-    padding: 20px 0 0 0;
+}
+
+.cool-stuff .header {
+    font-family: "Amatic SC", cursive;
+    font-size: 175%;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-bottom: 20px;
+}
+
+.cool-stuff .header > span {
+    position: relative;
+    display: inline-block;
+}
+
+.cool-stuff .header > span:before,
+.cool-stuff .header > span:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    width: 9999px;
+    height: 2px;
+    background: black;
+}
+
+.cool-stuff .header > span:before {
+    right: 100%;
+    margin-right: 15px;
+}
+
+.cool-stuff .header > span:after {
+    left: 100%;
+    margin-left: 15px;
 }
 
 .cool-stuff .topic img {
