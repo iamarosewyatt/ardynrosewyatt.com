@@ -1,4 +1,5 @@
 {% extends 'layout.html' %}
+{% load tagging_tags %}
 
 {% block title %}{{ post.title }}{% endblock %}
 
@@ -20,6 +21,13 @@
             <span class="title">{{ post.title }}</span><!--
          --><span class="date">{{ post.created|date:"F jS, Y" }}</span>
         </a>
+        <div class="tags">
+            {% tags_for_object post as tag_list %}
+            tags:
+            {% for tag in tag_list %}
+                <a href="/journal/tag/{{ tag }}">{{ tag }}</a>
+            {% endfor %}
+        </div>
         <img class="image" src="{{ MEDIA_URL }}{{ post.image }}" alt="{{ post.title }}"/>
         <p class="body">{{ post.content|safe }}</p>
         <ul class="centered horizontal-list">
