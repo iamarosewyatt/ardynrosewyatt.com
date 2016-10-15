@@ -1,4 +1,8 @@
 from django.contrib import admin
 from journal.models import Post
 
-admin.site.register(Post)
+
+class PostAdmin(admin.ModelAdmin):
+    readonly_fields = ('created', 'modified', 'slug')
+
+admin.site.register(Post, PostAdmin)
