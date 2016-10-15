@@ -299,6 +299,10 @@ img.header {
     margin-top: 25px;
 }
 
+.cool-stuff {
+    margin: 20px 0 30px 0;
+}
+
 .cool-stuff .topic {
     margin: 20px 0;
 }
