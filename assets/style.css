@@ -165,6 +165,10 @@ img.header {
     font-size: 50%;
 }
 
+.home .intent {
+    margin: 10px 0 5px 0;
+}
+
 .home .column {
     display: block;
     float: left;
