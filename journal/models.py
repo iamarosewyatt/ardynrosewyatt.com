@@ -9,7 +9,7 @@ from tagging.fields import TagField
 
 class Post(Model):
     title = CharField(max_length=200)
-    image = ImageField(upload_to='')
+    image = ImageField(upload_to='journal/')
     tags = TagField()
     content = RichTextField()
     created = DateTimeField(editable=False)
