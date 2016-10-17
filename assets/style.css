@@ -166,7 +166,10 @@ img.header {
 }
 
 .home .intent {
-    margin: 10px 0 5px 0;
+    margin: 20px 0 5px 0;
+    font-size: 200%;
+    font-family: "Amatic SC", cursive;
+    text-align: center;
 }
 
 .home .column {
