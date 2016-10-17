@@ -372,6 +372,52 @@ img.header {
 .cool-stuff .align-right img { float: right; }
 .cool-stuff .align-right a   { clear: right; }
 
+.whats-coming {
+    position: relative;
+    margin: 20px 0;
+}
+
+.whats-coming .no-items {
+    text-align: center;
+    font-size: 180%;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+.whats-coming .intent {
+    position: absolute;
+    width: 364px;
+    text-align: center;
+    margin: 0 408px;
+    padding-top: 25px;
+    font-size: 180%;
+    font-family: "Open Sans Condensed", sans-serif;
+    clear: both;
+}
+
+.whats-coming .item {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+    border: 1px #000 solid;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.whats-coming .item:nth-child(3) {
+    margin-left: 406px;
+}
+
+.whats-coming .item:nth-child(3n) {
+    margin-right: 0;
+}
+
+.whats-coming .intent,
+.whats-coming .item,
+.whats-coming .item img {
+    width: 384px;
+    height: 288px;
+}
+
 .book .excerpt {
     margin: 0 20px;
     padding: 0 20px;

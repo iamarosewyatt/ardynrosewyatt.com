@@ -1,8 +1,7 @@
-from django.http import HttpResponse
-from django.template import loader
+from django.shortcuts import render
+from whats_coming.model import Item
 
 
 def index(request):
-    template = loader.get_template('whats-coming.html')
-    context = {}
-    return HttpResponse(template.render(context, request))
+    items = Item.objects.all().order_by('-created')
+    return render(request, 'index.html', {'items': items})

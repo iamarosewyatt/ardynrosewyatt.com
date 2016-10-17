@@ -29,7 +29,8 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'ckeditor',
     'tagging',
-    'journal'
+    'journal',
+    'whats_coming'
 ]
 
 MIDDLEWARE = [
