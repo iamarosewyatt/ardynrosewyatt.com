@@ -211,7 +211,20 @@ img.header {
     padding: 0;
 }
 
-.timeline .date {
+.about .photos {
+    float: left;
+}
+
+.about .photos img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.about .moments {
+    margin-left: 220px;
+}
+
+.about .moments .date {
     font-weight: bold;
 }
 
@@ -377,6 +390,7 @@ img.header {
     margin: 20px 0;
 }
 
+.empty,
 .whats-coming .no-items {
     text-align: center;
     font-size: 180%;

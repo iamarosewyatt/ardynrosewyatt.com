@@ -1,0 +1,332 @@
+[
+  {
+    "model": "about.moment",
+    "pk": 1,
+    "fields": {
+      "when": "1959-01-01",
+      "what": "Born sixth of six children - all under the age of six - the \"quiet\" half of an identical set.",
+      "image": "about/six_under_six.jpeg",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:38:12.635Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 2,
+    "fields": {
+      "when": "1968-01-01",
+      "what": "Learn to say \"r's\" like \"r's\" instead of \"w's\".",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 3,
+    "fields": {
+      "when": "1972-01-01",
+      "what": "Get special assignments in 8th-grade art class because I'm a natural.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 4,
+    "fields": {
+      "when": "1975-01-01",
+      "what": "Father promoted and family moves to Honolulu. Ninth move, fourth state, third high school. Realize I'm the ugly twin. Introduced to Jane Austen, Louise May Alcott and the Bronte sisters.",
+      "image": "about/Hawaii_1.jpeg",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:38:37.332Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 5,
+    "fields": {
+      "when": "1976-01-01",
+      "what": "Start college at Brigahm Young University.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 6,
+    "fields": {
+      "when": "1979-12-01",
+      "what": "Marry in Mormon temple \"for time and all eternity\". I'm 20.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 7,
+    "fields": {
+      "when": "1980-08-01",
+      "what": "Get stretch marks.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 8,
+    "fields": {
+      "when": "1980-10-01",
+      "what": "Fall in love for the first time, with an 8 lb. miracle. I name her Erin.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 9,
+    "fields": {
+      "when": "1981-08-01",
+      "what": "Graduate from college with a B.S. in Sociology.",
+      "image": "about/Kimberlys_graduation_2.jpeg",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:39:06.280Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 10,
+    "fields": {
+      "when": "1983-03-01",
+      "what": "Fall in love again - with an 8 lb. 6 oz. miracle. I name her Emrie.",
+      "image": "about/Erin_and_Emrie.jpeg",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:39:25.116Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 11,
+    "fields": {
+      "when": "1984-01-01",
+      "what": "Introduced to Ayn Rand, Sylvia Plath and Anne Morrow Lindbergh.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 12,
+    "fields": {
+      "when": "1986-01-01",
+      "what": "Start pottery class at local community college and make first non-church friends. Realize the love in my life is happening with my daughters, not at church.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 13,
+    "fields": {
+      "when": "1988-01-01",
+      "what": "Start graduate degree in Social Work. Stop attending church. File for divorce. Introduced to Joseph Campbell, C.W. Jung and Melanie Beattie.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 14,
+    "fields": {
+      "when": "1988-01-01",
+      "what": "Discover sex.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 15,
+    "fields": {
+      "when": "1990-01-01",
+      "what": "Complete MSW. Move 'home' to California to find job and raise daughters.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 16,
+    "fields": {
+      "when": "1991-01-01",
+      "what": "Meet Al.",
+      "image": "about/meet_Al.jpeg",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:39:57.747Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 17,
+    "fields": {
+      "when": "1997-01-01",
+      "what": "Run San Francisco Marathon in 4:14. Introduced to Carolyn Myss, Clarissa Pinkola Estes, Toni Morrison and Neale Donald Walsh.",
+      "image": "about/S.F._Marathon.jpeg",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:40:13.530Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 18,
+    "fields": {
+      "when": "1999-01-01",
+      "what": "Meet <a href=\"http://www.mothermeera.com/\">Mother Meera</a>.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:42:20.464Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 19,
+    "fields": {
+      "when": "2000-11-01",
+      "what": "Say good-by to Al after 9+ years of drama, lies, love, manipulation, confusion, sex and learning.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 20,
+    "fields": {
+      "when": "2001-10-17",
+      "what": "Answer the door when Al comes asking for my help.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 21,
+    "fields": {
+      "when": "2001-10-24",
+      "what": "X-ray shows a mass in Al's left frontal lobe. I forgive Al and commit to <a href=\"/journal/2013/04/11/it-changed-everything/\">stay with him</a> no matter what.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:43:08.088Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 22,
+    "fields": {
+      "when": "2001-12-10",
+      "what": "Emergency surgery confirms a brain tumor. I leave my job as director of a non-profit to care for him.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 23,
+    "fields": {
+      "when": "2002-03-01",
+      "what": "Introduced to my Infinite Self. Remember the beauty that I am.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 24,
+    "fields": {
+      "when": "2002-07-13",
+      "what": "<a href=\"/journal/2013/04/08/remembering-love/\">Al dies.</a>",
+      "image": "about/Al_dies.jpeg",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:43:34.812Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 25,
+    "fields": {
+      "when": "2002-07-01",
+      "what": "Introduced to Kabbalah, Paulo Coelho, yoga, Pema Chodron, Buddhism, Bill Bryson, Rumi, Karen Armstrong, meditation, Gnosticism, John Kabat Zinn, body/energy work, Robert Monroe and more. Learn which practices help me return to the experience <a href=\"/journal/2014/03/14/remembering-love/\">\"I am Beauty\"</a>.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 26,
+    "fields": {
+      "when": "2008-10-01",
+      "what": "Begin writing my story. Decide to call it <a href=\"/journal/2014/03/25/writing-myself/\">\"Making Love\"</a>.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 27,
+    "fields": {
+      "when": "2009-03-01",
+      "what": "Paint first portrait in oils.",
+      "image": "about/first_oil.jpeg",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-17T04:41:22.081Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 28,
+    "fields": {
+      "when": "2011-07-01",
+      "what": "Self-publish \"Making Love\" and give copies to friends and family.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 29,
+    "fields": {
+      "when": "2012-01-01",
+      "what": "Decide to keep writing and creating in hopes of reaching other women.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "about.moment",
+    "pk": 30,
+    "fields": {
+      "when": "2012-06-01",
+      "what": "Launch website.",
+      "image": "",
+      "created": "2016-10-16T12:00:00Z",
+      "modified": "2016-10-16T12:00:00Z"
+    }
+  }
+]

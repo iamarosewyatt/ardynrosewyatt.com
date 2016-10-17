@@ -1,8 +1,8 @@
-from django.http import HttpResponse
-from django.template import loader
+from about.models import Moment
+from django.shortcuts import render
 
 
 def index(request):
-    template = loader.get_template('about.html')
-    context = {}
-    return HttpResponse(template.render(context, request))
+    moments = Moment.objects.all().order_by('when')
+    photos = [moment.image for moment in moments if moment.image]
+    return render(request, 'about.html', {'moments': moments, 'photos': photos})

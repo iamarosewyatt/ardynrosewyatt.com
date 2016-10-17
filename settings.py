@@ -30,7 +30,8 @@ INSTALLED_APPS = [
     'ckeditor',
     'tagging',
     'journal',
-    'whats_coming'
+    'whats_coming',
+    'about'
 ]
 
 MIDDLEWARE = [
