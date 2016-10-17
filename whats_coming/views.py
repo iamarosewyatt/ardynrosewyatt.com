@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from whats_coming.model import Item
+from whats_coming.models import Item
 
 
 def index(request):

@@ -1,5 +1,5 @@
 from django.contrib import admin
-from whats_coming.model import Item
+from whats_coming.models import Item
 
 
 class ItemAdmin(admin.ModelAdmin):
