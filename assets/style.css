@@ -289,7 +289,7 @@ img.header {
 .journal .post .title {
     display: inline-block;
     width: 75%;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 200%;
 }
 
