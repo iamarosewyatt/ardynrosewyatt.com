@@ -33,7 +33,8 @@ INSTALLED_APPS = [
     'about',
     'journal',
     'cool_stuff',
-    'whats_coming'
+    'whats_coming',
+    'book'
 ]
 
 MIDDLEWARE = [
