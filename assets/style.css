@@ -431,6 +431,10 @@ img.header {
     height: 288px;
 }
 
+.book {
+    margin-bottom: 40px;
+}
+
 .book .excerpt {
     margin: 0 20px;
     padding: 0 20px;
