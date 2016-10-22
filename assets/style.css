@@ -87,8 +87,6 @@ div, ul, form {
 .site-title {
     display: block;
     text-align: center;
-    height: 150px;
-    width: 500px;
     padding: 0;
     margin: 0 auto 20px auto;
 }
@@ -170,6 +168,7 @@ img.header {
     font-size: 200%;
     font-family: "Amatic SC", cursive;
     text-align: center;
+    font-weight: bold;
 }
 
 .home .column {
