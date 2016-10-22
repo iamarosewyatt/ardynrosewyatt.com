@@ -15,6 +15,7 @@ DEBUG = True
 # See https://docs.djangoproject.com/en/1.10/ref/contrib/sites/#module-django.contrib.sites
 SITE_ID = 1
 
+# Sett https://docs.djangoproject.com/en/1.10/ref/settings/#allowed-hosts
 ALLOWED_HOSTS = []
 
 # Application definition
@@ -52,7 +53,7 @@ ROOT_URLCONF = 'urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
