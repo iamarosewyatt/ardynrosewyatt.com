@@ -29,9 +29,11 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'ckeditor',
     'tagging',
+    'home',
+    'about',
     'journal',
-    'whats_coming',
-    'about'
+    'cool_stuff',
+    'whats_coming'
 ]
 
 MIDDLEWARE = [
@@ -49,7 +51,7 @@ ROOT_URLCONF = 'urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['templates'],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
