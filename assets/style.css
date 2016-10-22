@@ -206,12 +206,13 @@ img.header {
 }
 
 .about .photos img {
-    width: 200px;
+    width: 250px;
     margin-bottom: 20px;
+    border: 1px #000 solid;
 }
 
 .about .moments {
-    margin-left: 220px;
+    margin-left: 280px;
 }
 
 .about .moments .date {
