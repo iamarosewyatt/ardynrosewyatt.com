@@ -133,19 +133,25 @@ img.header {
     vertical-align: middle;
 }
 
-.newsletter button {
-    cursor: pointer;
+.newsletter input {
     margin-left: 10px;
     padding: 5px 10px;
     vertical-align: middle;
-    color: #000;
-    background-color: #fff;
-    border-radius: 10px;
-    border: 2px #000 solid;
-    text-decoration: none;
+    border: 1px #000 solid;
+    border-radius: 5px;
 }
 
-.newsletter button:hover {
+.newsletter .email {
+    width: 300px;
+}
+
+.newsletter .button {
+    cursor: pointer;
+    color: #000;
+    background-color: #fff;
+}
+
+.newsletter .button:hover {
     background-color: #eee;
 }
 
