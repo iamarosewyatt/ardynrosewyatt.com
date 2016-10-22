@@ -25,11 +25,16 @@ _Requires: Python 3.3+_
 2. Setup the database
 
     ```bash
-    $ .venv/bin/python manage.py migrate
+    $ bash create-database.sh
     Operations to perform:
-      Apply all migrations: admin, auth, contenttypes, journal, sessions, sites
+      Synchronize unmigrated apps: ckeditor, messages, staticfiles
+      Apply all migrations: about, admin, auth, contenttypes, journal, sessions, sites, tagging, whats_coming
+    Synchronizing apps without migrations:
+      Creating tables...
+        Running deferred SQL...
     Running migrations:
       Rendering model states... DONE
+      Applying about.0001_initial... OK
       Applying contenttypes.0001_initial... OK
       Applying auth.0001_initial... OK
       Applying admin.0001_initial... OK
@@ -48,16 +53,14 @@ _Requires: Python 3.3+_
       Applying sites.0002_alter_domain_unique... OK
       Applying tagging.0001_initial... OK
       Applying tagging.0002_on_delete... OK
-    ```
-
-3. Create an administrator account
-
-    ```bash
-    $ .venv/bin/python manage.py createsuperuser
+      Applying whats_coming.0001_initial... OK
+    Installed 1 object(s) from 1 fixture(s)
+    Installed 30 object(s) from 1 fixture(s)
+    Installed 59 object(s) from 1 fixture(s)
+    Creating a super user account...
     Username (leave blank to use 'root'): admin
-    Email address:
-    Password: ********
-    Password (again): ********
+    Password:
+    Password (again):
     Superuser created successfully.
     ```
 
