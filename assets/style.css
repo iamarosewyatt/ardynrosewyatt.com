@@ -106,15 +106,6 @@ div, ul, form {
     color: #000;
 }
 
-.social-links {
-    text-align: center;
-}
-
-.social-links img {
-    width: 30px;
-    height: 30px;
-}
-
 img.header {
     display: block;
     text-align: center;
@@ -309,6 +300,10 @@ img.header {
 .journal .post .image {
     width: 100%;
     margin-top: 25px;
+}
+
+.journal .post .social-links {
+    line-height: 14px;
 }
 
 .cool-stuff {
