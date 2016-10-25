@@ -1,10 +1,11 @@
-from django.db.models import Model, ImageField, DateTimeField, DateField, CharField
+from ckeditor.fields import RichTextField
+from django.db.models import Model, ImageField, DateTimeField, DateField
 from django.utils import timezone
 
 
 class Moment(Model):
     when = DateField()
-    what = CharField(max_length=200)
+    what = RichTextField()
     image = ImageField(upload_to='about/', blank=True)
     created = DateTimeField(editable=False)
     modified = DateTimeField(editable=False)
