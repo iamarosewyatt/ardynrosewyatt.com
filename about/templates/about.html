@@ -5,8 +5,9 @@
 {% include 'menu.html' %}
 <img class="header" src="/static/images/about-header-with-text.png" alt="About"/>
 
-<h1>About Me</h1>
 <div class="about clearfix">
+    <span class="title">About Me</span>
+
     {% if photos %}
     <ul class="photos simple-list">
         {% for photo in photos %}

@@ -207,6 +207,14 @@ img.header {
     padding: 0;
 }
 
+.about .title {
+    display: block;
+    font-family: "Amatic SC", cursive;
+    font-weight: 700;
+    font-size: 300%;
+    margin: 20px 0;
+}
+
 .about .photos {
     float: left;
 }
