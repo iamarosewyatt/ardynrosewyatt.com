@@ -24,6 +24,19 @@ div, ul, form {
     /*border: 1px #000 dashed;*/
 }
 
+a:link {
+    color: #C3627F;
+}
+
+a:hover,
+a:active {
+    color: #E16996;
+}
+
+a:visited {
+    color: #7D3E58;
+}
+
 /* ----- utility classes ----- */
 
 .simple-list {
