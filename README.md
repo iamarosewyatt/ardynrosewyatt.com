@@ -1,14 +1,14 @@
 # ArdynRoseWyatt
 This is the code behind [ArdynRoseWyatt.com](ArdynRoseWyatt.com).
 
-# Quickstart
+# Development Install
 
 _Requires: Python 3.3+_
 
 1. Build a virtual environment. Once complete you'll want to use the ```.venv/bin/python``` interpreter.
 
     ```bash
-    $ bash create-environment.sh
+    $ bash create-python-environment.sh
     Collecting pip
       Using cached pip-8.1.2-py2.py3-none-any.whl
     Installing collected packages: pip
@@ -25,7 +25,7 @@ _Requires: Python 3.3+_
 2. Setup the database
 
     ```bash
-    $ bash create-database.sh
+    $ bash populate-database.sh
     Operations to perform:
       Synchronize unmigrated apps: ckeditor, messages, staticfiles
       Apply all migrations: about, admin, auth, contenttypes, journal, sessions, sites, tagging, whats_coming
@@ -57,8 +57,7 @@ _Requires: Python 3.3+_
     Installed 1 object(s) from 1 fixture(s)
     Installed 30 object(s) from 1 fixture(s)
     Installed 59 object(s) from 1 fixture(s)
-    Creating a super user account...
-    Username (leave blank to use 'root'): admin
+    Creating a super user account (user: iamarosewyatt) ...
     Password:
     Password (again):
     Superuser created successfully.
@@ -96,3 +95,7 @@ _Requires: Python 3.3+_
     Starting development server at http://localhost:8080/
     Quit the server with CONTROL-C.
     ```
+
+## Production Deployment
+
+The intended platform is Ubuntu 16.04, Python 3.5, Apache 2.4 w/ WSGI, MySQL 5.7, and Django 1.10. See the three shell scripts at the root of the repository for more information.

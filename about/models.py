@@ -11,7 +11,7 @@ class Moment(Model):
     modified = DateTimeField(editable=False)
 
     def __str__(self):
-        return '{}: {}'.format(self.when, self.what)
+        return self.when
 
     def save(self, *args, **kwargs):
         if not self.id:
