@@ -1,3 +1,4 @@
+from django.contrib.sites.models import Site
 from django.db.models import Model, CharField, ImageField, DateTimeField
 from django.utils import timezone
 
@@ -10,6 +11,9 @@ class Item(Model):
 
     def __str__(self):
         return self.caption
+
+    def permalink(self):
+        return 'http://{}/uploads/{}'.format(Site.objects.get_current(), self.image)
 
     def save(self, *args, **kwargs):
         if not self.id:

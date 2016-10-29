@@ -474,6 +474,13 @@ img.header {
     color: #000000;
 }
 
+.whats-coming .item .pinterest {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+}
+
+.whats-coming .item .pinterest,
 .whats-coming .item .caption,
 .whats-coming .item .caption span {
     opacity: 0;
@@ -484,6 +491,10 @@ img.header {
 }
 
 .whats-coming .item:hover .caption span {
+    opacity: 1;
+}
+
+.whats-coming .item:hover .pinterest {
     opacity: 1;
 }
 

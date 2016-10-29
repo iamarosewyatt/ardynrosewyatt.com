@@ -11,6 +11,15 @@
     <div class="item">
         <img src="{{ MEDIA_URL }}{{ item.image }}" alt="{{ item.caption }}"/>
         <div class="caption"><span>{{ item.caption }}</span></div>
+        <div class="pinterest">
+            <a href="https://www.pinterest.com/pin/create/button/?media={{ MEDIA_URL }}{{ item.image }}"
+               data-pin-do="buttonPin"
+               data-pin-media="{{ item.permalink }}"
+               data-pin-description="{{ item.caption }}"
+               data-pin-shape="round">
+                <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" />
+            </a>
+        </div>
     </div>
     {% endfor %}
     {% else %}
@@ -19,5 +28,11 @@
 </div>
 
 {% include 'footer.html' %}
+
+<script
+    type="text/javascript"
+    async defer
+    src="//assets.pinterest.com/js/pinit.js"
+></script>
 
 {% endblock %}
