@@ -449,9 +449,38 @@ img.header {
 
 .whats-coming .intent,
 .whats-coming .item,
+.whats-coming .item .caption,
 .whats-coming .item img {
     width: 384px;
     height: 288px;
+}
+
+.whats-coming .item {
+    position: relative;
+}
+
+.whats-coming .item .caption {
+    display: table;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.whats-coming .item .caption span {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: #000000;
+}
+
+.whats-coming .item .caption,
+.whats-coming .item .caption span {
+    opacity: 0;
+}
+
+.whats-coming .item:hover .caption {
+    opacity: 0.5;
 }
 
 .book {

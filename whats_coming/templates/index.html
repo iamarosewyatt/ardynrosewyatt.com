@@ -8,7 +8,10 @@
     {% if items %}
     <div class="intent">a thousand ways to share empathy, forgiveness and love, and here's where you can find some of them...</div>
     {% for item in items %}
-    <div class="item"><img src="{{ MEDIA_URL }}{{ item.image }}" alt="{{ item.caption }}"/></div>
+    <div class="item">
+        <img src="{{ MEDIA_URL }}{{ item.image }}" alt="{{ item.caption }}"/>
+        <div class="caption"><span>{{ item.caption }}</span></div>
+    </div>
     {% endfor %}
     {% else %}
     <div class="no-items">Nothing has been posted yet. Please check back soon!</div>
