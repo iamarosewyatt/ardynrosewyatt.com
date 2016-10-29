@@ -58,5 +58,5 @@ def post(request, year, month, day, slug):
         p = Post.objects.get(created__year=year, created__month=month, created__day=day, slug=slug)
     except Post.DoesNotExist:
         timestamp = date(year=int(year), month=int(month), day=int(day))
-        raise Http404('No post exists with {} on {}'.format(slug, date_format(timestamp, "F jS, Y")))
+        raise Http404('No post exists with slug "{}" on {}'.format(slug, date_format(timestamp, "F jS, Y")))
     return render(request, 'post.html', {'post': p})
