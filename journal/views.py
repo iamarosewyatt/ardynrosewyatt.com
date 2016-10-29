@@ -30,13 +30,15 @@ def by_year(request, year):
 
 
 def by_month(request, year, month):
-    posts = Post.objects.filter(created__year=year, created__month=month).order_by('created')
+    created_at = '{}-{}'.format(year, zero_pad(month))
+    posts = Post.objects.filter(created__contains=created_at).order_by('created')
     timestamp = date(year=int(year), month=int(month), day=1)
     return archive(request, date_format(timestamp, "F Y"), posts)
 
 
 def by_day(request, year, month, day):
-    posts = Post.objects.filter(created__year=year, created__month=month, created__day=day).order_by('created')
+    created_at = '{}-{}-{}'.format(year, zero_pad(month), zero_pad(day))
+    posts = Post.objects.filter(created__contains=created_at).order_by('created')
     timestamp = date(year=int(year), month=int(month), day=int(day))
     return archive(request, date_format(timestamp, "F jS, Y"), posts)
 
@@ -55,8 +57,16 @@ def archive(request, key, posts):
 
 def post(request, year, month, day, slug):
     try:
-        p = Post.objects.get(created__year=year, created__month=month, created__day=day, slug=slug)
+        created_at = '{}-{}-{}'.format(year, zero_pad(month), zero_pad(day))
+        p = Post.objects.get(created__contains=created_at, slug=slug)
     except Post.DoesNotExist:
         timestamp = date(year=int(year), month=int(month), day=int(day))
         raise Http404('No post exists with slug "{}" on {}'.format(slug, date_format(timestamp, "F jS, Y")))
     return render(request, 'post.html', {'post': p})
+
+
+def zero_pad(number):
+    if len(number) == 1:
+        return '0{}'.format(number)
+    else:
+        return number
