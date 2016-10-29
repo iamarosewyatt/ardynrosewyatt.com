@@ -300,30 +300,8 @@
     "model": "about.moment",
     "pk": 28,
     "fields": {
-      "when": "2011-07-01",
-      "what": "Self-publish \"Making Love\" and give copies to friends and family.",
-      "image": "",
-      "created": "2016-10-16T12:00:00Z",
-      "modified": "2016-10-16T12:00:00Z"
-    }
-  },
-  {
-    "model": "about.moment",
-    "pk": 29,
-    "fields": {
       "when": "2012-01-01",
       "what": "Decide to keep writing and creating in hopes of reaching other women.",
-      "image": "",
-      "created": "2016-10-16T12:00:00Z",
-      "modified": "2016-10-16T12:00:00Z"
-    }
-  },
-  {
-    "model": "about.moment",
-    "pk": 30,
-    "fields": {
-      "when": "2012-06-01",
-      "what": "Launch website.",
       "image": "",
       "created": "2016-10-16T12:00:00Z",
       "modified": "2016-10-16T12:00:00Z"
