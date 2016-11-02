@@ -511,6 +511,12 @@ img.header {
     right: 10px;
 }
 
+.whats-coming .item .pinterest span {
+    width: 32px;
+    height: 32px;
+    background-size: 32px 32px;
+}
+
 .whats-coming .item .pinterest,
 .whats-coming .item .caption,
 .whats-coming .item .caption span {
