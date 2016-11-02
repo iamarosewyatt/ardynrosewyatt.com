@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'ckeditor',
     'tagging',
+    'ordered_model',
     'home',
     'about',
     'journal',

@@ -18,7 +18,8 @@ class Migration(migrations.Migration):
             name='Moment',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('when', models.DateField()),
+                ('order', models.PositiveSmallIntegerField()),
+                ('when', models.CharField(max_length=20)),
                 ('what', ckeditor.fields.RichTextField()),
                 ('image', models.ImageField(blank=True, upload_to='about/')),
                 ('created', models.DateTimeField(editable=False)),

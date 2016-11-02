@@ -18,7 +18,7 @@
     <div class="moments">
         {% if moments %}
         {% for moment in moments %}
-        <p><span class="date">{{ moment.when|date:"F jS, Y" }}.</span> {{ moment.what|safe }}</p>
+        <p><span class="date">{{ moment.when }}.</span> {{ moment.what|safe }}</p>
         {% endfor %}
         {% else %}
         <div class="empty">No moments have been recorded. Please check back soon!</div>
