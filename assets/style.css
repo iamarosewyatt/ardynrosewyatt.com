@@ -338,14 +338,14 @@ img.header {
 
 .journal .post .title {
     display: inline-block;
-    width: 75%;
+    width: 65%;
     font-weight: 700;
     font-size: 200%;
 }
 
 .journal .post .date {
     display: inline-block;
-    width: 24%;
+    width: 34%;
     text-align: right;
     font-size: 150%;
 }
