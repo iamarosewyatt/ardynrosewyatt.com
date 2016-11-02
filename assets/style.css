@@ -129,7 +129,8 @@ img.header {
 
 .footer-row {
     font-size: 75%;
-    padding: 10px 50px;
+    /*padding: 10px 50px;*/
+    padding: 10px 0;
     margin: 10px 0;
     border-top: 2px #000 solid;
     border-bottom: 2px #000 solid;
@@ -137,6 +138,10 @@ img.header {
 
 .footer-row div {
     display: inline-block;
+}
+
+.newsletter {
+    margin-left: 20px;
 }
 
 .newsletter label {
@@ -148,15 +153,20 @@ img.header {
 }
 
 .newsletter input {
-    margin-left: 10px;
+    margin-left: 5px;
     padding: 5px 10px;
     vertical-align: middle;
     border: 1px #000 solid;
     border-radius: 5px;
 }
 
+.newsletter .first-name,
+.newsletter .last-name {
+    width: 100px;
+}
+
 .newsletter .email {
-    width: 300px;
+    width: 200px;
 }
 
 .newsletter .button {
@@ -172,7 +182,7 @@ img.header {
 .social-navigation {
     vertical-align: middle;
     text-align: right;
-    margin-left: 100px;
+    margin-left: 35px;
 }
 
 .social-navigation li,
@@ -187,7 +197,7 @@ img.header {
 }
 
 .social-navigation li {
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 .legal {
