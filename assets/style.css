@@ -163,6 +163,8 @@ img.header {
 }
 
 .footer-row {
+    display: table;
+    width: 100%;
     font-size: 75%;
     padding: 10px 0;
     margin: 10px 0;
@@ -170,12 +172,21 @@ img.header {
     border-bottom: 2px #000 solid;
 }
 
-.footer-row div {
-    display: inline-block;
+.footer-row > div {
+    display: table-cell;
+    vertical-align: middle;
 }
 
-.newsletter {
-    margin-left: 20px;
+.footer-row > div:first-child {
+    width: 85%;
+    padding-left: 10px;
+    text-align: left;
+}
+
+.footer-row > div:last-child {
+    width: 15%;
+    padding-right: 10px;
+    text-align: right;
 }
 
 .newsletter label {
@@ -211,12 +222,6 @@ img.header {
 
 .newsletter .button:hover {
     background-color: #eee;
-}
-
-.social-navigation {
-    vertical-align: middle;
-    text-align: right;
-    margin-left: 35px;
 }
 
 .social-navigation li,
