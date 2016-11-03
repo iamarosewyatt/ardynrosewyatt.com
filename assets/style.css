@@ -410,7 +410,7 @@ img.header {
 }
 
 .cool-stuff .topic img {
-    width: 600px;
+    /*width: 600px;*/
     height: 300px;
     border: 1px #000 solid;
     box-shadow: 0 10px 30px rgba(0,0,0,0.3);
@@ -430,11 +430,11 @@ img.header {
 }
 
 .cool-stuff .align-left      { text-align: left; clear: both; }
-.cool-stuff .align-left ul   { margin-left: 600px; }
+.cool-stuff .align-left ul   { margin-left: 400px; }
 .cool-stuff .align-left img  { float: left; }
 .cool-stuff .align-left a    { clear: left; }
 .cool-stuff .align-right     { text-align: right; clear: both; }
-.cool-stuff .align-right ul  { margin-right: 600px; }
+.cool-stuff .align-right ul  { margin-right: 400px; }
 .cool-stuff .align-right img { float: right; }
 .cool-stuff .align-right a   { clear: right; }
 
