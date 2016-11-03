@@ -89,6 +89,41 @@ a:visited {
     border-radius: 6px;
 }
 
+.hover {
+    position: relative;
+}
+
+.hover .caption {
+    display: table;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    background-color: #ffffff;
+    font-family: "Open Sans Condensed", sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.hover .caption span {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: #000000;
+}
+
+.hover .caption,
+.hover .caption span {
+    opacity: 0;
+}
+
+.hover:hover .caption {
+    opacity: 0.5;
+}
+
+.hover:hover .caption span {
+    opacity: 1;
+}
+
 /* ----- structural elements ----- */
 
 .content {
@@ -231,6 +266,12 @@ img.header {
 .home .column:last-child {
     margin-right: 0;
     margin-left: 19px;
+}
+
+.home .caption,
+.home img {
+    width: 385px;
+    height: 250px;
 }
 
 .home img {
@@ -466,8 +507,11 @@ img.header {
     margin-right: 20px;
     margin-bottom: 20px;
     padding: 0;
-    border: 1px #000 solid;
     box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.whats-coming .item img {
+    border: 1px #000 solid;
 }
 
 .whats-coming .item:nth-child(3) {
@@ -490,24 +534,6 @@ img.header {
     position: relative;
 }
 
-.whats-coming .item .caption {
-    display: table;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #ffffff;
-    font-family: "Open Sans Condensed", sans-serif;
-    font-weight: bold;
-    font-size: 150%;
-}
-
-.whats-coming .item .caption span {
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
-    color: #000000;
-}
-
 .whats-coming .item .pinterest {
     position: absolute;
     bottom: 0;
@@ -520,18 +546,8 @@ img.header {
     background-size: 32px 32px;
 }
 
-.whats-coming .item .pinterest,
-.whats-coming .item .caption,
-.whats-coming .item .caption span {
+.whats-coming .item .pinterest {
     opacity: 0;
-}
-
-.whats-coming .item:hover .caption {
-    opacity: 0.5;
-}
-
-.whats-coming .item:hover .caption span {
-    opacity: 1;
 }
 
 .whats-coming .item:hover .pinterest {

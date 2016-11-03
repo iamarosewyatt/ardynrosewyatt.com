@@ -8,7 +8,7 @@
     {% if items %}
     <div class="intent">a thousand things to share and here's just a few of them...</div>
     {% for item in items %}
-    <div class="item">
+    <div class="item hover">
         <img src="{{ MEDIA_URL }}{{ item.image }}" alt="{{ item.caption }}"/>
         <div class="caption"><span>{{ item.caption }}</span></div>
         <div class="pinterest">
