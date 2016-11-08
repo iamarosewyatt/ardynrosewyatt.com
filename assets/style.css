@@ -297,6 +297,17 @@ img.header {
     padding: 0;
 }
 
+.best-idea {
+    background: url('/static/images/best-idea-link.png');
+    width: 385px;
+    height: 250px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.best-idea:hover {
+    background: url('/static/images/best-idea-link-hover.png');
+}
+
 .about .title {
     display: block;
     font-family: "Amatic SC", cursive;
