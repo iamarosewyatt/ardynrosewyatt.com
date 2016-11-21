@@ -7,7 +7,7 @@ from ordered_model.models import OrderedModel
 class Moment(OrderedModel):
     order = PositiveSmallIntegerField()
     when = CharField(max_length=20)
-    what = RichTextField()
+    what = RichTextField(config_name='moment')
     image = ImageField(upload_to='about/', blank=True)
     created = DateTimeField(editable=False)
     modified = DateTimeField(editable=False)

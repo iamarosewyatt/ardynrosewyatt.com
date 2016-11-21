@@ -119,6 +119,12 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'uploads')
 
 # See https://github.com/django-ckeditor/django-ckeditor#installation
 CKEDITOR_JQUERY_URL = '//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'
+CKEDITOR_CONFIGS = {
+    'default': {},
+    'moment': {
+        'autoParagraph': False
+    }
+}
 
 # See http://django-tagging.readthedocs.io/en/develop/#settings
 FORCE_LOWERCASE_TAGS = True
