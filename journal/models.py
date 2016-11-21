@@ -12,7 +12,7 @@ class Post(Model):
     image = ImageField(upload_to='journal/')
     tags = TagField()
     content = RichTextField()
-    created = DateTimeField(editable=False)
+    created = DateTimeField(editable=True, default=timezone.now)
     modified = DateTimeField(editable=False)
     slug = SlugField(editable=False)
 
@@ -31,8 +31,6 @@ class Post(Model):
         })
 
     def save(self, *args, **kwargs):
-        if not self.id:
-            self.created = timezone.now()
         self.modified = timezone.now()
         if not self.slug:
             self.slug = slugify(self.title)

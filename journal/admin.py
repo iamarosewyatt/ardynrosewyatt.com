@@ -3,6 +3,6 @@ from journal.models import Post
 
 
 class PostAdmin(admin.ModelAdmin):
-    readonly_fields = ('created', 'modified', 'slug')
+    readonly_fields = ('modified', 'slug')
 
 admin.site.register(Post, PostAdmin)
