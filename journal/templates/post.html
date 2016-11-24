@@ -1,7 +1,7 @@
 {% extends 'layout.html' %}
 {% load tagging_tags %}
 
-{% block title %}{{ post.title }}{% endblock %}
+{% block title %} | {{ post.title }}{% endblock %}
 
 {% block head %}
 <meta property="og:url" content="{{ post.permalink }}"/>
